@@ -1,0 +1,37 @@
+{
+  "id": "owner-perl",
+  "name": "Perl · official owner file · direct file · Camel%20Left%20Filled.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "perl",
+      "version": "d942561f594feab70c7a8905d70d675c4bdd4d31",
+      "license": "licenses/cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "modifications": "CSS styles converted to presentation attributes.",
+  "trademark": "The Perl and Raku Foundation marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:perl:standalone",
+    "sha256": "877e48c13d3b385457b678fa48652574322e1d0c77dee24ce20d25111855fdc4"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:perl",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-4.0",
+    "licenseText": "licenses/cc-by-4-0.md",
+    "credit": "Perl camel logo, Copyright (c) 2024 Olaf Alders (https://perl.org)",
+    "changes": "CSS styles converted to presentation attributes. Root width and height removed; the viewBox sizes the artwork. Editor and selector bookkeeping attributes removed.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://raw.githubusercontent.com/metacpan/perl-assets/d942561f594feab70c7a8905d70d675c4bdd4d31/base/Camel%20Left%20Filled.svg"
+  }
+}

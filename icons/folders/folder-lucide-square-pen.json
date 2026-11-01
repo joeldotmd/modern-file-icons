@@ -1,0 +1,32 @@
+{
+  "id": "folder-lucide-square-pen",
+  "name": "Lucide closed folder + SquarePen",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Folder",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "lucide-react",
+      "icon": "SquarePen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 13.4, closed 13/14, open 12.1/15.1, stroke 2.5. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:lucide_SquarePen:closed",
+    "sha256": "6dbda27dd188f76b42fad39179f907b4fae849e66b6f8d2b81427eda38a26789"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-lucide-square-pen"
+}

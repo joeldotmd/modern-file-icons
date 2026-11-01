@@ -1,0 +1,36 @@
+{
+  "id": "owner-biome",
+  "name": "Biome · official owner file · direct file · icon-light-transparent-x8.png",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "biome",
+      "version": "8829f6bb708d202ea6e796a0077503a0a35552ff",
+      "license": "licenses/cc-by-sa-4-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "Biome project marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:biome:standalone",
+    "sha256": "5853e244b79dec7cbdabe08a7b74f14b84404cedbefcb104c5861aa90b508638"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:biome",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-SA-4.0",
+    "licenseText": "licenses/cc-by-sa-4-0.md",
+    "credit": "Biome by Alexandru-Ștefan Gârleanu, Biome Core Contributors and Maintainers",
+    "changes": "PNG embedded in an SVG wrapper; no vector original. Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": true,
+    "noDerivatives": false,
+    "source": "https://raw.githubusercontent.com/biomejs/resources/8829f6bb708d202ea6e796a0077503a0a35552ff/png/icon-light-transparent-x8.png"
+  }
+}

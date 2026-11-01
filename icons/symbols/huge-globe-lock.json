@@ -1,0 +1,24 @@
+{
+  "id": "huge-globe-lock",
+  "name": "Hugeicons · GlobeLockIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "GlobeLockIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:GlobeLockIcon",
+    "sha256": "abe03a053bd0084c58c8a4cd4e974583d9e9b46f88971b05a3977c74f0dbca27"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

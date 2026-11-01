@@ -1,0 +1,24 @@
+{
+  "id": "lucide-binary",
+  "name": "Lucide · Binary",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Binary",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Binary",
+    "sha256": "e6c81b544a18b0f43c873033a7d4eea9aa697869c6d9e1d37064a1d3dadfcad1"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "owner-storybook",
+  "name": "Storybook · official owner file · direct file · icon-storybook-default.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "storybook",
+      "version": "92d14f36956244f79d5d9833386367e0e1e9bde5",
+      "license": "licenses/storybook-mit.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "Storybook project marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:storybook:standalone",
+    "sha256": "ae87d4e90c0a797f8df04ab9d4d45a6059a2eae3a4a6e96042b6ab4ede6b121e"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:storybook",
+    "assessment": "CONDITIONAL",
+    "license": "MIT",
+    "licenseText": "licenses/storybook-mit.md",
+    "credit": "Storybook logo by the Storybook project",
+    "changes": "Root width and height removed; the viewBox sizes the artwork. Legacy xlink:href references rewritten as href.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "notice": "Copyright (c) 2017 Storybooks",
+    "source": "https://raw.githubusercontent.com/storybookjs/brand/92d14f36956244f79d5d9833386367e0e1e9bde5/icon/icon-storybook-default.svg"
+  }
+}

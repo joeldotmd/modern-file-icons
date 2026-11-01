@@ -1,0 +1,32 @@
+{
+  "id": "folder-solar-calculator-minimalistic",
+  "name": "Lucide closed folder + Solar · CalculatorMinimalistic",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Folder",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@solar-icons/react",
+      "icon": "calculator-minimalistic (Linear)",
+      "version": "2.3.2",
+      "license": "licenses/solar-cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 11.5, closed 12.8/12.5, open 11.5/13.5, stroke 2.1. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:solar_calculator-minimalistic:closed",
+    "sha256": "e996cccb09cddee0e34a8eeaa9fc626ff610e01354093b51efb2c534bf4abcae"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH ATTRIBUTION; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-solar-calculator-minimalistic"
+}

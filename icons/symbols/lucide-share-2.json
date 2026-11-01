@@ -1,0 +1,24 @@
+{
+  "id": "lucide-share-2",
+  "name": "Lucide · Share2",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Share2",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Share2",
+    "sha256": "02862b3bf2c098c6b7cd808399202978759aa062db66daac86b7ba58287c3791"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

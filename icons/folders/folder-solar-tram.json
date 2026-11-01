@@ -1,0 +1,32 @@
+{
+  "id": "folder-solar-tram",
+  "name": "Lucide closed folder + Solar · Tram",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Folder",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@solar-icons/react",
+      "icon": "tram (Linear)",
+      "version": "2.3.2",
+      "license": "licenses/solar-cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 13.3, closed 12.8/12.5, open 12.4/14.2, stroke 1.9. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:solar_tram:closed",
+    "sha256": "02d67d1aea21c5efe8dee89500768672576b78a7f15c45875c96ee03d61ccb9b"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH ATTRIBUTION; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-solar-tram"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "solar-move",
+  "name": "Solar · Move",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@solar-icons/react",
+      "icon": "move (Linear)",
+      "version": "2.3.2",
+      "license": "licenses/solar-cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "solar:move",
+    "sha256": "5fa959d3fcbcfd3acc9cb6720f169e612a798d41a7c2475b84f8083bf80efd5e"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH ATTRIBUTION; GENERIC LICENSED MOTIF"
+  }
+}

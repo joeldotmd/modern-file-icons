@@ -1,0 +1,24 @@
+{
+  "id": "lucide-cat",
+  "name": "Lucide · Cat",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Cat",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Cat",
+    "sha256": "22c76c21c25e0ee6ec2f4a879ec71018686a75924363bf73c3c4d51821700903"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

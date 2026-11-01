@@ -1,0 +1,32 @@
+{
+  "id": "folder-huge-chevrons-up",
+  "name": "Lucide closed folder + Hugeicons · ChevronsUpIcon",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Folder",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "ChevronsUpIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 14.1, closed 12.4/12.2, open 11.5/12.6, stroke 2.7. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:huge_ChevronsUpIcon:closed",
+    "sha256": "bc13a8bb67275d95f2d8a6d1f01158c286928ebdcc60bf23971a157d89c8f8b6"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-huge-chevrons-up"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "folder-phosphor-video-open",
+  "name": "Lucide expanded folder + Phosphor · Video · regular",
+  "category": "folder",
+  "style": "mixed",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@phosphor-icons/react",
+      "icon": "Video (regular)",
+      "version": "2.1.10",
+      "license": "licenses/phosphor-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 14.2, closed 12.7/12.1, open 12.5/13.3, stroke 1.7. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:phosphor-semantic_Video_regular:open",
+    "sha256": "95b10e88aaf11c5ff862bae2db05304322f71c1dc7fda14dad3d9f3f4bb9d4c2"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-phosphor-video"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "folder-androidlogo-phosphor-fill-open",
+  "name": "Lucide FolderOpen + Phosphor AndroidLogo · fill",
+  "category": "folder",
+  "style": "mixed",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Folder",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@phosphor-icons/react",
+      "icon": "AndroidLogo (fill)",
+      "version": "2.1.10",
+      "license": "licenses/phosphor-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 16, closed 13/12.1, open 12.5/13.8, stroke 2.3.",
+  "trademark": "Google retains all trademark rights to the Android robot.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "proposal:folder-androidlogo-phosphor-fill-open",
+    "sha256": "6517e26d6bc8c163615d5405c45b18965fd384b9a2ea5f7296e2ff72318cd97e"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "folder:folder-android",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-3.0",
+    "licenseText": "licenses/cc-by-3-0.md",
+    "credit": "The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.",
+    "changes": "Android robot redrawn by Phosphor Icons (AndroidLogo, fill); scaled into a Lucide folder outline and recoloured by Modern File Icons. Selector calibration (artwork override): motif size 16, closed 13/12.1, open 12.5/13.8, stroke 2.3. Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://developer.android.com/legal"
+  },
+  "variantGroup": "folder-androidlogo-phosphor-fill"
+}

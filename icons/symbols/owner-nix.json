@@ -1,0 +1,37 @@
+{
+  "id": "owner-nix",
+  "name": "Nix · official owner file · direct file · nix-snowflake-colours.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "nix",
+      "version": "9d2cdedd73d64a068214482902adea3d02783ba8",
+      "license": "licenses/cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "modifications": "CSS styles converted to presentation attributes.",
+  "trademark": "NixOS Foundation marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:nix:standalone",
+    "sha256": "08ac3a22c8bcd29bc615ad5e2be8cbcb3a7ee9e99155f550c8790272ea8b8e69"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:nix",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-4.0",
+    "licenseText": "licenses/cc-by-4-0.md",
+    "credit": "'NixOS Logo' by Simon Frankau and Tim Cuthbertson, NixOS project",
+    "changes": "CSS styles converted to presentation attributes. Root width and height removed; the viewBox sizes the artwork. Legacy xlink:href references rewritten as href.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://raw.githubusercontent.com/NixOS/nixos-artwork/9d2cdedd73d64a068214482902adea3d02783ba8/logo/nix-snowflake-colours.svg"
+  }
+}

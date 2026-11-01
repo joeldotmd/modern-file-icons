@@ -1,0 +1,32 @@
+{
+  "id": "folder-lucide-pencil-line-open",
+  "name": "Lucide expanded folder + PencilLine",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "lucide-react",
+      "icon": "PencilLine",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 11.5, closed 13/13.9, open 12.1/14.9, stroke 2.5. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:lucide_PencilLine:open",
+    "sha256": "b81b5d595e6c7bec4b23eab268ca391c0fe1e0397dfe7ffd6d42c40c8c1ea94c"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-lucide-pencil-line"
+}

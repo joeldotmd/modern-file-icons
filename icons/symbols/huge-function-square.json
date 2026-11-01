@@ -1,0 +1,24 @@
+{
+  "id": "huge-function-square",
+  "name": "Hugeicons · FunctionSquareIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "FunctionSquareIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:FunctionSquareIcon",
+    "sha256": "bcfa8b9c1665d5be9bdd4fa8d49995756687bb58e8a8b47826afab60ddd16546"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "lucide-pen",
+  "name": "Lucide · Pen",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Pen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Pen",
+    "sha256": "4a4e6d1fc0b009f3d1b8c76eae63d05c2996e10176f337b78e9218e4dee5d76e"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

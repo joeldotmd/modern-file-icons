@@ -1,0 +1,32 @@
+{
+  "id": "folder-huge-spell-check",
+  "name": "Lucide closed folder + Hugeicons · SpellCheckIcon",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Folder",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "SpellCheckIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (hugeicons pack baseline): motif size 13.3, closed 12.9/11.7, open 12.5/12.6, stroke 2.7. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:huge_SpellCheckIcon:closed",
+    "sha256": "e19a8c84da23c66a75e69c77e14c8434c13617c9c84f414f5b4c4d73360f36e1"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-huge-spell-check"
+}

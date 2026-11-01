@@ -1,0 +1,32 @@
+{
+  "id": "folder-lucide-orbit-open",
+  "name": "Lucide expanded folder + Orbit",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "lucide-react",
+      "icon": "Orbit",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (lucide pack baseline): motif size 13.4, closed 13/12.5, open 12.1/13.9, stroke 2.5. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:lucide_Orbit:open",
+    "sha256": "aad52db8ff4a5e2d3d0da52e99a42c1486f9601a0e41f99f18b531948cfb6ca7"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-lucide-orbit"
+}

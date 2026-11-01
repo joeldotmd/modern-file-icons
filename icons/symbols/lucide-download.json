@@ -1,0 +1,24 @@
+{
+  "id": "lucide-download",
+  "name": "Lucide · Download",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Download",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Download",
+    "sha256": "1e9b999f6f3b87e56196a2f1c525c399b12d4afcd309aae9054904102c2e542d"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

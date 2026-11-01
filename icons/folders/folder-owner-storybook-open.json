@@ -1,0 +1,45 @@
+{
+  "id": "folder-owner-storybook-open",
+  "name": "Storybook · official owner file · direct file · icon-storybook-default.svg · paired closed/open",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "owner-artwork",
+      "icon": "storybook",
+      "version": "92d14f36956244f79d5d9833386367e0e1e9bde5",
+      "license": "licenses/storybook-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": false },
+  "modifications": "Selector calibration (artwork override): motif size 12.5, closed 12.7/13.9, open 12.3/15.4, stroke 2. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "trademark": "Storybook project marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:storybook:folder:open",
+    "sha256": "332cddb1a61f02a0ee16999f2154eeb5c3798cb10b4281ad3598dd3ed9168a24"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "folder:folder-storybook",
+    "assessment": "CONDITIONAL",
+    "license": "MIT",
+    "licenseText": "licenses/storybook-mit.md",
+    "credit": "Storybook logo by the Storybook project",
+    "changes": "Scaled and placed in a Lucide folder outline by Modern File Icons. Selector calibration (artwork override): motif size 12.5, closed 12.7/13.9, open 12.3/15.4, stroke 2. Nested SVG viewport kept as authored, with its position and size made explicit. Root width and height removed; the viewBox sizes the artwork. Editor and selector bookkeeping attributes removed. Legacy xlink:href references rewritten as href.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "notice": "Copyright (c) 2017 Storybooks",
+    "source": "https://raw.githubusercontent.com/storybookjs/brand/92d14f36956244f79d5d9833386367e0e1e9bde5/icon/icon-storybook-default.svg"
+  },
+  "variantGroup": "folder-owner-storybook"
+}

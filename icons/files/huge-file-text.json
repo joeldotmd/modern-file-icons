@@ -1,0 +1,24 @@
+{
+  "id": "huge-file-text",
+  "name": "FileTextIcon",
+  "category": "file",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "FileTextIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:FileTextIcon",
+    "sha256": "720372ed719fe73f0b4854c3cebb62aca2da0097acfffc07bf4a6a0ee6ee2b6c"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "GENERIC SOURCE-PACK ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

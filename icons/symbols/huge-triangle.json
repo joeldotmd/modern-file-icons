@@ -1,0 +1,24 @@
+{
+  "id": "huge-triangle",
+  "name": "Hugeicons · TriangleIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "TriangleIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:TriangleIcon",
+    "sha256": "271ad758e2e611493bd7e6a03d9da0e97353a83e68e8426276030e0bf0a597b0"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "lucide-flask-conical",
+  "name": "Lucide · FlaskConical",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FlaskConical",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:FlaskConical",
+    "sha256": "8a448ed4a57f0a372bbcfc06c6c3112fbbfaffd17e8b9f975cf7a4d9d17d94cc"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

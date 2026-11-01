@@ -1,0 +1,24 @@
+{
+  "id": "huge-cup-soda",
+  "name": "Hugeicons · CupSodaIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "CupSodaIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:CupSodaIcon",
+    "sha256": "87b53bcac0b6c661fea46f780954a2ee110e1da3c99e8d4f85797b7495c5c595"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

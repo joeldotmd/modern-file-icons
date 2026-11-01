@@ -1,0 +1,24 @@
+{
+  "id": "huge-hand-heart",
+  "name": "Hugeicons · HandHeartIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "HandHeartIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:HandHeartIcon",
+    "sha256": "eab937b982458491a2fbc65cd84f7db0ac4a4e2dbdfa0e5a88d4685b7486b203"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

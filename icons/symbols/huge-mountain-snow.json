@@ -1,0 +1,24 @@
+{
+  "id": "huge-mountain-snow",
+  "name": "Hugeicons · MountainSnowIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "MountainSnowIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:MountainSnowIcon",
+    "sha256": "f96d543424b56d230ad9eac885ab9b69d54ff2f3d652013c268f75c0fe14d660"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

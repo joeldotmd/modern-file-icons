@@ -1,0 +1,24 @@
+{
+  "id": "lucide-fishing-hook",
+  "name": "Lucide · FishingHook",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FishingHook",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:FishingHook",
+    "sha256": "15e8f2779e5a40c91c0f986c953b4cd4b2adb03801b74d3093ef13b1ac51a750"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

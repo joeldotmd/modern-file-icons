@@ -1,0 +1,24 @@
+{
+  "id": "lucide-hexagon",
+  "name": "Lucide · Hexagon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Hexagon",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Hexagon",
+    "sha256": "f9a88eab99d0a654908827d0dc82221aef06a4e2c6f747bf999fb728ea81e16d"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

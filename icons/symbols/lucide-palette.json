@@ -1,0 +1,24 @@
+{
+  "id": "lucide-palette",
+  "name": "Palette",
+  "category": "symbol",
+  "style": "mixed",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Palette",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Palette",
+    "sha256": "4f1aa9383973380b11823b5638ce1f5560050a9077d20c46edb26d51ce7780da"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "GENERIC SOURCE-PACK ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

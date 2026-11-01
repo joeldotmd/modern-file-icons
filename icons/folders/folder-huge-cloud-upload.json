@@ -1,0 +1,32 @@
+{
+  "id": "folder-huge-cloud-upload",
+  "name": "Lucide closed folder + Hugeicons · CloudUploadIcon",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Folder",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "CloudUploadIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 14.4, closed 12.9/12.4, open 12.5/14.5, stroke 2. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:huge_CloudUploadIcon:closed",
+    "sha256": "8cd13944d842793a0ffaf947ac2aded721b868a80ec1defb738afbb5a22b358e"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-huge-cloud-upload"
+}

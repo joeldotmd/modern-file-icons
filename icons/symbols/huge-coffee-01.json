@@ -1,0 +1,24 @@
+{
+  "id": "huge-coffee-01",
+  "name": "Hugeicons · Coffee01Icon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "Coffee01Icon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:Coffee01Icon",
+    "sha256": "69c511c944c96dca9231028476ef0e573bf88a6946546dba656f197541501d63"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

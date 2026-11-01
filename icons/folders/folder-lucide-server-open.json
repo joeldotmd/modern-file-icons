@@ -1,0 +1,32 @@
+{
+  "id": "folder-lucide-server-open",
+  "name": "Lucide expanded folder + Server",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "lucide-react",
+      "icon": "Server",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 13.4, closed 13/13.3, open 12.1/14.7, stroke 2.5. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:lucide_Server:open",
+    "sha256": "82afc03550ddb13631e112bf3d70daf6e57844a2fd992bcd838985cc694e62cf"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-lucide-server"
+}

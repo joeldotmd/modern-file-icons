@@ -1,0 +1,24 @@
+{
+  "id": "lucide-arrow-big-down",
+  "name": "Lucide · ArrowBigDown",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "ArrowBigDown",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:ArrowBigDown",
+    "sha256": "228dfefd699c9a042faa5a46db87dd185c1f11bac346bcdfc2a228333cf29996"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

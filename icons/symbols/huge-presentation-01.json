@@ -1,0 +1,24 @@
+{
+  "id": "huge-presentation-01",
+  "name": "Presentation01Icon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "Presentation01Icon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:Presentation01Icon",
+    "sha256": "214777544c99fb8e77e49d68354803f7342bb7356d1a71156bb39fc6feff2c59"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "GENERIC SOURCE-PACK ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

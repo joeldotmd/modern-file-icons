@@ -1,0 +1,24 @@
+{
+  "id": "material-latexmk",
+  "name": "latexmk",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "material-icon-theme",
+      "icon": "latexmk.svg",
+      "version": "5.39.0",
+      "license": "licenses/material-icon-theme-mit.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "material:latexmk",
+    "sha256": "12eb671eb3a46cacc32ebed43ca1600187aaeb03a27df33523796bbecaa9ecfb"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "GENERIC MATERIAL; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

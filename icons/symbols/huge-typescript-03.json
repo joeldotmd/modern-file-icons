@@ -1,0 +1,24 @@
+{
+  "id": "huge-typescript-03",
+  "name": "Typescript03Icon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "Typescript03Icon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:Typescript03Icon",
+    "sha256": "29fda6036f643126a32eee8d4adf2e86bd0a920c8d45b6b91ac09a8ce2c46577"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "GENERIC SOURCE-PACK ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

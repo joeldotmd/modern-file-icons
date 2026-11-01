@@ -1,0 +1,24 @@
+{
+  "id": "huge-table-of-contents",
+  "name": "Hugeicons · TableOfContentsIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "TableOfContentsIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:TableOfContentsIcon",
+    "sha256": "6040f1651b3a121f00b8b66061b0441036e9d4a0be92fdbb0c92e921e99f863d"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

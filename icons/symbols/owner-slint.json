@@ -1,0 +1,36 @@
+{
+  "id": "owner-slint",
+  "name": "Slint · official owner file · direct file · slint-logo-small-light.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "slint",
+      "version": "e5a3543f496bec6fe01e566a95d24859e0ec8962",
+      "license": "licenses/cc-by-nd-4-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "SixtyFPS GmbH (Slint) marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:slint:standalone",
+    "sha256": "72f07bc970b5ce81096ebb029f9aef6a48f3d93cdd058aeef0be10036070f488"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:slint",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-ND-4.0",
+    "licenseText": "licenses/cc-by-nd-4-0.md",
+    "credit": "Slint logo by SixtyFPS GmbH",
+    "changes": "Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": true,
+    "source": "https://raw.githubusercontent.com/slint-ui/slint/e5a3543f496bec6fe01e566a95d24859e0ec8962/logo/slint-logo-small-light.svg"
+  }
+}

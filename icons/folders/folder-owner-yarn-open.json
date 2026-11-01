@@ -1,0 +1,44 @@
+{
+  "id": "folder-owner-yarn-open",
+  "name": "Yarn · official owner file · alternate file · yarn-kitten.svg · paired closed/open",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "owner-artwork",
+      "icon": "yarn",
+      "version": "76d30ca2aebed5b73ea8131d972218fb860bd32d",
+      "license": "licenses/cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": false },
+  "modifications": "Selector calibration (artwork override): motif size 13.6, closed 12.8/13, open 12.8/14.6, stroke 2. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "trademark": "Yarn project marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:yarn:folder:open",
+    "sha256": "c010ef5272bd59094f49742ae5a831325d258fce0e5f231be20b063d06824fa9"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "folder:folder-yarn",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-4.0",
+    "licenseText": "licenses/cc-by-4-0.md",
+    "credit": "Yarn logo (yarn-kitten.svg) by the Yarn project, https://github.com/yarnpkg/assets",
+    "changes": "Scaled and placed in a Lucide folder outline by Modern File Icons. Selector calibration (artwork override): motif size 13.6, closed 12.8/13, open 12.8/14.6, stroke 2. Nested SVG viewport kept as authored, with its position and size made explicit. Root width and height removed; the viewBox sizes the artwork. Editor and selector bookkeeping attributes removed.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://raw.githubusercontent.com/yarnpkg/assets/76d30ca2aebed5b73ea8131d972218fb860bd32d/yarn-kitten.svg"
+  },
+  "variantGroup": "folder-owner-yarn"
+}

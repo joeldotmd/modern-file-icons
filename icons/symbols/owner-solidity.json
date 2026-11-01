@@ -1,0 +1,36 @@
+{
+  "id": "owner-solidity",
+  "name": "Solidity · official owner file · direct file · logo.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "solidity",
+      "version": "4a392a063b7ba388f66a85c2f5649c8a16fdc52e",
+      "license": "licenses/cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "Solidity / Ethereum Foundation marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:solidity:standalone",
+    "sha256": "f2799c43c3021f30ea7757797546db700230fc36d16e3dbaf06eb8b3416d2b47"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:solidity",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-4.0",
+    "licenseText": "licenses/cc-by-4-0.md",
+    "credit": "Solidity logo by The Solidity Authors",
+    "changes": "Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://raw.githubusercontent.com/ethereum/solidity/4a392a063b7ba388f66a85c2f5649c8a16fdc52e/docs/logo.svg"
+  }
+}

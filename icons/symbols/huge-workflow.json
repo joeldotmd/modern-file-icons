@@ -1,0 +1,24 @@
+{
+  "id": "huge-workflow",
+  "name": "Hugeicons · WorkflowIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "WorkflowIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:WorkflowIcon",
+    "sha256": "0bd38ad7699dc5061174ca3af5bfbd6c3c6ada5bec94a4402392667b06c9d730"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

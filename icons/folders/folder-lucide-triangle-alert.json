@@ -1,0 +1,32 @@
+{
+  "id": "folder-lucide-triangle-alert",
+  "name": "Lucide closed folder + TriangleAlert",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Folder",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "lucide-react",
+      "icon": "TriangleAlert",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 12.7, closed 13/12.5, open 12.1/13.9, stroke 2.5. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:lucide_TriangleAlert:closed",
+    "sha256": "dc5a4dc3392fb2ff95f18f061ee876906238d3bb350c7bfedc3eca2bed720ff5"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-lucide-triangle-alert"
+}

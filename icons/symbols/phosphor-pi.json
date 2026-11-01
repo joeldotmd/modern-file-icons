@@ -1,0 +1,24 @@
+{
+  "id": "phosphor-pi",
+  "name": "Phosphor · Pi · regular",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "@phosphor-icons/react",
+      "icon": "Pi (regular)",
+      "version": "2.1.10",
+      "license": "licenses/phosphor-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "phosphor-semantic:Pi:regular",
+    "sha256": "3eabae2bf876434a1f4bc12828527ce9eca7312b28153db08d8c0c23598161eb"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

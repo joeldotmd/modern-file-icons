@@ -1,0 +1,24 @@
+{
+  "id": "lucide-sparkle",
+  "name": "Lucide · Sparkle",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Sparkle",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Sparkle",
+    "sha256": "746c26477a98b9cdc5b126d0368308cfaf8ff8a011a6dc278994fb03bfe585a8"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

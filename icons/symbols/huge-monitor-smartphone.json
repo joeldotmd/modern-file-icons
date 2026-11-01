@@ -1,0 +1,24 @@
+{
+  "id": "huge-monitor-smartphone",
+  "name": "Hugeicons · MonitorSmartphoneIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "MonitorSmartphoneIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:MonitorSmartphoneIcon",
+    "sha256": "3dc0fd8be1f1f2b59fab526b8ad8fa1bd1e78798cd464ccf9c46dfb586619290"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

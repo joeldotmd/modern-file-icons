@@ -1,0 +1,185 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/joeldotmd/modern-file-icons/schemas/theme.schema.json",
+  "title": "Theme Definition",
+  "description": "Maps each logical filesystem decision to canonical artwork and its appearance defaults.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "name", "version", "source", "fallbacks", "decisions"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["selector", "selections", "calibration"],
+      "properties": {
+        "selector": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["sha256", "seedId"],
+          "properties": {
+            "sha256": {
+              "$ref": "#/definitions/sha256"
+            },
+            "seedId": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "selections": {
+          "$ref": "#/definitions/sourceFile"
+        },
+        "calibration": {
+          "$ref": "#/definitions/sourceFile"
+        }
+      }
+    },
+    "fallbacks": {
+      "description": "Generic decisions used for unrecognized names and whenever selected artwork cannot ship.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["file", "folder", "rootFolder"],
+      "properties": {
+        "file": {
+          "$ref": "#/definitions/decisionId"
+        },
+        "folder": {
+          "$ref": "#/definitions/decisionId"
+        },
+        "rootFolder": {
+          "$ref": "#/definitions/decisionId"
+        }
+      }
+    },
+    "decisions": {
+      "type": "object",
+      "propertyNames": {
+        "$ref": "#/definitions/decisionId"
+      },
+      "additionalProperties": {
+        "$ref": "#/definitions/decision"
+      }
+    }
+  },
+  "definitions": {
+    "sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "sourceFile": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["path", "sha256"],
+      "properties": {
+        "path": {
+          "type": "string",
+          "minLength": 1
+        },
+        "sha256": {
+          "$ref": "#/definitions/sha256"
+        }
+      }
+    },
+    "decisionId": {
+      "type": "string",
+      "pattern": "^(?:file|folder):[A-Za-z0-9._-]+$"
+    },
+    "artworkId": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "hex": {
+      "type": "string",
+      "pattern": "^#(?:[0-9a-fA-F]{3}|[0-9a-fA-F]{6}|[0-9a-fA-F]{8})$"
+    },
+    "decision": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["kind", "selection", "color", "visualApproved"],
+      "properties": {
+        "kind": {
+          "enum": ["file", "folder"]
+        },
+        "selection": {
+          "description": "The reviewed selector candidate, preserved even when it cannot be reproduced.",
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["icon", "expandedIcon"],
+          "properties": {
+            "icon": {
+              "type": "string",
+              "minLength": 1
+            },
+            "expandedIcon": {
+              "type": ["string", "null"]
+            }
+          }
+        },
+        "artwork": {
+          "$ref": "#/definitions/artworkId"
+        },
+        "expandedArtwork": {
+          "$ref": "#/definitions/artworkId"
+        },
+        "unavailable": {
+          "description": "Why the selected artwork is not in the theme; builds use the generic fallback.",
+          "type": "string",
+          "minLength": 1
+        },
+        "color": {
+          "description": "Colour inherited by the artwork's currentColor in each host appearance.",
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["light", "dark"],
+          "properties": {
+            "light": {
+              "$ref": "#/definitions/hex"
+            },
+            "dark": {
+              "$ref": "#/definitions/hex"
+            }
+          }
+        },
+        "stroke": {
+          "description": "Theme stroke adjustment applied to the whole artwork or only a composite's motif.",
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["scope", "scale"],
+          "properties": {
+            "scope": {
+              "enum": ["all", "motif"]
+            },
+            "scale": {
+              "type": "number",
+              "exclusiveMinimum": 0
+            },
+            "motifWidth": {
+              "type": "number",
+              "minimum": 0
+            }
+          }
+        },
+        "visualApproved": {
+          "type": "boolean"
+        },
+        "fixedSize": {
+          "description": "CSS pixels the selector drew this artwork at whatever the cell size (an inline size on its source root). Hosts draw it at this size, plus the bleed, from the top-left of its layout box.",
+          "type": "number",
+          "exclusiveMinimum": 0
+        }
+      }
+    }
+  }
+}

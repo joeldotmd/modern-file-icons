@@ -1,0 +1,24 @@
+{
+  "id": "phosphor-infinity",
+  "name": "Phosphor · Infinity · regular",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "@phosphor-icons/react",
+      "icon": "Infinity (regular)",
+      "version": "2.1.10",
+      "license": "licenses/phosphor-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "phosphor-semantic:Infinity:regular",
+    "sha256": "208f8ba1109b81d081634963b8343e32e5ed03e204132fdf25c0e668be780ad7"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

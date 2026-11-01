@@ -1,0 +1,24 @@
+{
+  "id": "lucide-parentheses",
+  "name": "Lucide · Parentheses",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Parentheses",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Parentheses",
+    "sha256": "50dab4749ed4b90073f15e6f3958efc766930bac7324210dd81b209e79bcb0ec"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

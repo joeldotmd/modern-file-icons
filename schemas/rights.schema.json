@@ -1,0 +1,174 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/joeldotmd/modern-file-icons/schemas/rights.schema.json",
+  "title": "Rights Register",
+  "description": "Evidence-based rights assessment for brand and owner artwork. It records obligations and open questions; it is not a clearance, and audited artwork stays held until a distribution approval is recorded.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["audit", "decisions"],
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "audit": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["date"],
+      "properties": {
+        "date": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+        }
+      }
+    },
+    "decisions": {
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "pattern": "^(?:file|folder):[A-Za-z0-9._-]+$"
+      },
+      "additionalProperties": {
+        "$ref": "#/definitions/rightsDecision"
+      }
+    }
+  },
+  "definitions": {
+    "status": {
+      "enum": ["PERMITTED", "CONDITIONAL", "PERMISSION-NEEDED", "PROHIBITED", "UNVERIFIED"]
+    },
+    "use": {
+      "anyOf": [
+        {
+          "$ref": "#/definitions/status"
+        },
+        {
+          "const": "n/a"
+        }
+      ]
+    },
+    "text": {
+      "type": "string",
+      "minLength": 1
+    },
+    "rightsDecision": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "owner",
+        "artworks",
+        "assessment",
+        "forms",
+        "copyright",
+        "conditions",
+        "sources",
+        "policies"
+      ],
+      "properties": {
+        "owner": {
+          "$ref": "#/definitions/text"
+        },
+        "artworks": {
+          "description": "Canonical artwork IDs; empty for excluded decisions that are not built.",
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          }
+        },
+        "assessment": {
+          "$ref": "#/definitions/status"
+        },
+        "forms": {
+          "description": "Assessment for each way this project distributes the artwork: in its public source, in theme packages, as a standalone file icon and inside a modified folder composite.",
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["source", "package", "standaloneIcon", "folderComposite"],
+          "properties": {
+            "source": {
+              "$ref": "#/definitions/use"
+            },
+            "package": {
+              "$ref": "#/definitions/use"
+            },
+            "standaloneIcon": {
+              "$ref": "#/definitions/use"
+            },
+            "folderComposite": {
+              "$ref": "#/definitions/use"
+            }
+          }
+        },
+        "copyright": {
+          "description": "Copyright layer of the selected artwork: SPDX identifier or LicenseRef for owner terms that are not an open licence.",
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["license", "licenseText", "credit"],
+          "properties": {
+            "license": {
+              "type": "string",
+              "pattern": "^(?:LicenseRef-[A-Za-z0-9.-]+|[A-Za-z0-9.+-]+)$"
+            },
+            "licenseText": {
+              "type": "string",
+              "pattern": "^licenses/[a-z0-9]+(?:-[a-z0-9]+)*\\.md$"
+            },
+            "credit": {
+              "$ref": "#/definitions/text"
+            },
+            "notice": {
+              "$ref": "#/definitions/text"
+            }
+          }
+        },
+        "trademark": {
+          "$ref": "#/definitions/text"
+        },
+        "changes": {
+          "description": "Change notice for adaptations the canonical metadata cannot show (redraws, recolours).",
+          "$ref": "#/definitions/text"
+        },
+        "conditions": {
+          "description": "Obligations and use constraints as recorded by the audit.",
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/text"
+          }
+        },
+        "unresolved": {
+          "description": "Open questions that keep artwork held.",
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/text"
+          }
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/text"
+          }
+        },
+        "policies": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/text"
+          }
+        },
+        "excluded": {
+          "$ref": "#/definitions/text"
+        },
+        "approval": {
+          "description": "Approval to distribute the artwork in this project's source and theme packages. Supporting review records are not part of the distributable register.",
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["date"],
+          "properties": {
+            "date": {
+              "type": "string",
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+            }
+          }
+        }
+      }
+    }
+  }
+}

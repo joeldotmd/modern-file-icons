@@ -1,0 +1,32 @@
+{
+  "id": "folder-phosphor-speedometer",
+  "name": "Lucide closed folder + Phosphor · Speedometer · regular",
+  "category": "folder",
+  "style": "mixed",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Folder",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@phosphor-icons/react",
+      "icon": "Speedometer (regular)",
+      "version": "2.1.10",
+      "license": "licenses/phosphor-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 12.7, closed 12.7/11.7, open 12.3/13.3, stroke 2.3. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:phosphor-semantic_Speedometer_regular:closed",
+    "sha256": "40709590b138d1ef842ec5dee7b7819219907082e934ee26deb09abfc5bf2ff5"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-phosphor-speedometer"
+}

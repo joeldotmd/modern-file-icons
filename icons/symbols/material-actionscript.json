@@ -1,0 +1,37 @@
+{
+  "id": "material-actionscript",
+  "name": "actionscript",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "material-icon-theme",
+      "icon": "actionscript.svg",
+      "version": "5.39.0",
+      "license": "licenses/material-icon-theme-mit.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "Adobe marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "material:actionscript",
+    "sha256": "9108655408b3b8041e6c4ce9afc1805cf58accfe9f766d7199696d1a39545a92"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:actionscript",
+    "assessment": "CONDITIONAL",
+    "license": "MIT",
+    "licenseText": "licenses/material-icon-theme-mit.md",
+    "credit": "Drawing from Material Icon Theme by Material Extensions",
+    "changes": "Unmodified artwork in Modern File Icons' self-contained SVG format.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "notice": "Copyright (c) 2025 Material Extensions",
+    "source": "https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE"
+  }
+}

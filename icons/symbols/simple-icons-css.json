@@ -1,0 +1,36 @@
+{
+  "id": "simple-icons-css",
+  "name": "Simple Icons · css (CC0-1.0)",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "simple-icons",
+      "icon": "css",
+      "version": "16.35.0",
+      "license": "licenses/cc0-1-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": false },
+  "trademark": "CSS-Next Community Group (W3C) marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "brandvar:simple-icons:css",
+    "sha256": "6efdbadf83a42775b74b9e367c29c86d24cceee24eca166794c4cabd97fff5c6"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:css",
+    "assessment": "CONDITIONAL",
+    "license": "CC0-1.0",
+    "licenseText": "licenses/cc0-1-0.md",
+    "credit": "CSS logo by the CSS-Next Community Group, via Simple Icons",
+    "changes": "Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/css.svg"
+  }
+}

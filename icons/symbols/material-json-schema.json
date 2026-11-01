@@ -1,0 +1,24 @@
+{
+  "id": "material-json-schema",
+  "name": "json_schema",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "material-icon-theme",
+      "icon": "json_schema.svg",
+      "version": "5.39.0",
+      "license": "licenses/material-icon-theme-mit.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "material:json_schema",
+    "sha256": "69af50f9dd6bf3b54599981da6fe8264261a301095bc5b0df2b081bb5818d38d"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "GENERIC MATERIAL; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

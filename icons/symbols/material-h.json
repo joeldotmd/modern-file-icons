@@ -1,0 +1,24 @@
+{
+  "id": "material-h",
+  "name": "h",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "material-icon-theme",
+      "icon": "h.svg",
+      "version": "5.39.0",
+      "license": "licenses/material-icon-theme-mit.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "material:h",
+    "sha256": "239e3f490c92dc56bb964cbf183b4ee803750cd1d75f8b75fbd8520ca09b6973"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "GENERIC MATERIAL; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

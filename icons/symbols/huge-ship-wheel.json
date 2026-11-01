@@ -1,0 +1,24 @@
+{
+  "id": "huge-ship-wheel",
+  "name": "Hugeicons · ShipWheelIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "ShipWheelIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:ShipWheelIcon",
+    "sha256": "acb21abe1331635ba6383ba73f03189b2c9d3d5172d10ee3b333220a60ff5f83"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

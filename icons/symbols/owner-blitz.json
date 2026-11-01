@@ -1,0 +1,37 @@
+{
+  "id": "owner-blitz",
+  "name": "Blitz · official owner file · direct file · svg-transparent-bg.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "blitz",
+      "version": "916e0ace69bb6feb555d0abd59cd97e98d9bf888",
+      "license": "licenses/blitz-mit.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "Blitz.js project marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:blitz:standalone",
+    "sha256": "eaa775cff9e71c66b997330cbef46771aa8632a3ddd9b0dbcc5fef8f9a039887"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:blitz",
+    "assessment": "CONDITIONAL",
+    "license": "MIT",
+    "licenseText": "licenses/blitz-mit.md",
+    "credit": "Blitz.js logo (blitz-js/art)",
+    "changes": "Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "notice": "Copyright (c) 2020 ⚡️Blitz",
+    "source": "https://raw.githubusercontent.com/blitz-js/art/916e0ace69bb6feb555d0abd59cd97e98d9bf888/svg-transparent-bg.svg"
+  }
+}

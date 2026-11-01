@@ -1,0 +1,37 @@
+{
+  "id": "owner-babel",
+  "name": "Babel · official owner file · direct file · babel.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "babel",
+      "version": "a88ebbfd2ab8cec53a17f2904ca8a241d28abf23",
+      "license": "licenses/babel-mit.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "Babel project marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:babel:standalone",
+    "sha256": "113586ebc4806236290b0453e967736e511ccd0207dc7ff120d605a6d856b473"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:babel",
+    "assessment": "CONDITIONAL",
+    "license": "MIT",
+    "licenseText": "licenses/babel-mit.md",
+    "credit": "Babel logo by the Babel project (babel/logo)",
+    "changes": "Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "notice": "Copyright (c) 2015 Sebastian McKenzie <sebmck@gmail.com> and James Kyle <me@thejameskyle.com>",
+    "source": "https://raw.githubusercontent.com/babel/logo/a88ebbfd2ab8cec53a17f2904ca8a241d28abf23/babel.svg"
+  }
+}

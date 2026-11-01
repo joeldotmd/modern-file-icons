@@ -1,0 +1,24 @@
+{
+  "id": "phosphor-bread",
+  "name": "Phosphor · Bread · regular",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "@phosphor-icons/react",
+      "icon": "Bread (regular)",
+      "version": "2.1.10",
+      "license": "licenses/phosphor-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "phosphor-semantic:Bread:regular",
+    "sha256": "97ad814496b001aa5aa3803daff9882eb50725acbf8cc3a6d05175b137c3f875"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

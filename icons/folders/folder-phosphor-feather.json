@@ -1,0 +1,32 @@
+{
+  "id": "folder-phosphor-feather",
+  "name": "Lucide closed folder + Phosphor · Feather · regular",
+  "category": "folder",
+  "style": "mixed",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Folder",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@phosphor-icons/react",
+      "icon": "Feather (regular)",
+      "version": "2.1.10",
+      "license": "licenses/phosphor-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 14.2, closed 11.5/13.7, open 11.4/15, stroke 2.3. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:phosphor-semantic_Feather_regular:closed",
+    "sha256": "272bc119c76b28dd92dcf54762b260245a5a1bb3be36fcd84e266bd3a0998c59"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-phosphor-feather"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "lucide-mouse-pointer-click",
+  "name": "Lucide · MousePointerClick",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "MousePointerClick",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:MousePointerClick",
+    "sha256": "29968d1b7ee2d20742dcf1e65354f1528571293e870a46f8332640c4e6ba45ba"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

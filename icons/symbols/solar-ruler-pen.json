@@ -1,0 +1,24 @@
+{
+  "id": "solar-ruler-pen",
+  "name": "Solar · RulerPen",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@solar-icons/react",
+      "icon": "ruler-pen (Linear)",
+      "version": "2.3.2",
+      "license": "licenses/solar-cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "solar:ruler-pen",
+    "sha256": "0c53e0d829b3bc3af2fe46b8bc6af410256179d6f56e7a9470d77549ea8b8008"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH ATTRIBUTION; GENERIC LICENSED MOTIF"
+  }
+}

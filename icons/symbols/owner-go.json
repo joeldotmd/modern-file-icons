@@ -1,0 +1,37 @@
+{
+  "id": "owner-go",
+  "name": "Go · official owner file · direct file · blue.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "go",
+      "version": "575a6925e2d55ad160ed77f402bfaa4ec7458749",
+      "license": "licenses/cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "modifications": "CSS styles converted to presentation attributes.",
+  "trademark": "Google LLC (Go project) marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:go:standalone",
+    "sha256": "27f34ee70fba700ef777c06a859d10a7064dc1138250b28cc6e3b7b621e54ee1"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:go",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-4.0",
+    "licenseText": "licenses/cc-by-4-0.md",
+    "credit": "Go gopher by Renee French (https://go.dev/blog/gopher)",
+    "changes": "CSS styles converted to presentation attributes. Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://raw.githubusercontent.com/golang/website/575a6925e2d55ad160ed77f402bfaa4ec7458749/_content/images/gophers/blue.svg"
+  }
+}

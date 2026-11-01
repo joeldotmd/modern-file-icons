@@ -1,0 +1,37 @@
+{
+  "id": "material-just",
+  "name": "just",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "material-icon-theme",
+      "icon": "just.svg",
+      "version": "5.39.0",
+      "license": "licenses/material-icon-theme-mit.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "just project (C. Rodarmor) marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "material:just",
+    "sha256": "dd82801b45722288ce2a7dc268f77bba1e3e9b101568f1a2940c8ff41ccfa4eb"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:just",
+    "assessment": "CONDITIONAL",
+    "license": "MIT",
+    "licenseText": "licenses/material-icon-theme-mit.md",
+    "credit": "Drawing from Material Icon Theme by Material Extensions",
+    "changes": "Unmodified artwork in Modern File Icons' self-contained SVG format.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "notice": "Copyright (c) 2025 Material Extensions",
+    "source": "https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE"
+  }
+}

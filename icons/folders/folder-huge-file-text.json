@@ -1,0 +1,32 @@
+{
+  "id": "folder-huge-file-text",
+  "name": "Lucide closed folder + Hugeicons · FileTextIcon",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Folder",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "FileTextIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 15.2, closed 12.9/12.4, open 12.5/14.3, stroke 1.7. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:huge_FileTextIcon:closed",
+    "sha256": "607b14a7e130968eefaaf641504c70b2e7d11cbdde010a47f52065b8e5592c52"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-huge-file-text"
+}

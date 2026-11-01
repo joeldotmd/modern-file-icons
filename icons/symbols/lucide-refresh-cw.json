@@ -1,0 +1,24 @@
+{
+  "id": "lucide-refresh-cw",
+  "name": "Lucide · RefreshCw",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "RefreshCw",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:RefreshCw",
+    "sha256": "8fa780e77530e755b78139996c84cf00a16c31537f493a97c2e2a24647210522"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

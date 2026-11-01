@@ -1,0 +1,32 @@
+{
+  "id": "folder-phosphor-selection-all-open",
+  "name": "Lucide expanded folder + Phosphor · SelectionAll · regular",
+  "category": "folder",
+  "style": "mixed",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@phosphor-icons/react",
+      "icon": "SelectionAll (regular)",
+      "version": "2.1.10",
+      "license": "licenses/phosphor-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 13.1, closed 12.7/12.1, open 11.4/13.6, stroke 2.3. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:phosphor-semantic_SelectionAll_regular:open",
+    "sha256": "1bdb155a086c695e25919cf58d241974f337a7cb383dd6522e8d26bea91c6ca9"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-phosphor-selection-all"
+}

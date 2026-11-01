@@ -1,0 +1,24 @@
+{
+  "id": "phosphor-bowl-food",
+  "name": "Phosphor · BowlFood · regular",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "@phosphor-icons/react",
+      "icon": "BowlFood (regular)",
+      "version": "2.1.10",
+      "license": "licenses/phosphor-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "phosphor-semantic:BowlFood:regular",
+    "sha256": "f5a55d545dc906deb8c0012ff3080441032359e23caed05c72dc12c4363c7f9d"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

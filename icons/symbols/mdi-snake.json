@@ -1,0 +1,23 @@
+{
+  "id": "mdi-snake",
+  "name": "Snake",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "@mdi/svg",
+      "icon": "snake",
+      "version": "7.4.47",
+      "license": "licenses/mdi-apache-2-0.md"
+    }
+  ],
+  "customization": {
+    "color": true,
+    "strokeWidth": false
+  },
+  "modifications": "Path unchanged from @mdi/svg 7.4.47 snake.svg (SHA-256 e60698a2b2546e8c3b9015778e49713d8a4a9e9cdfdff9fe5936f63105792899); fill set to currentColor so the theme can colour it, and the element id dropped.",
+  "release": {
+    "status": "eligible",
+    "basis": "Generic Material Design Icons 'snake' (Animal category, by Colton Wiscombe), Apache License 2.0; not a brand or logo icon."
+  }
+}

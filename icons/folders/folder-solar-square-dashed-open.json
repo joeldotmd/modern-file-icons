@@ -1,0 +1,32 @@
+{
+  "id": "folder-solar-square-dashed-open",
+  "name": "Lucide expanded folder + Solar · SquareDashed",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@solar-icons/react",
+      "icon": "square-dashed (Linear)",
+      "version": "2.3.2",
+      "license": "licenses/solar-cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 11.5, closed 12.8/12.5, open 13.3/15.3, stroke 2.4. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:solar_square-dashed:open",
+    "sha256": "ab1f2af976640308ae9c5fe3e2640945c0cc8af3daab0b00a6047a8da2cd18b1"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH ATTRIBUTION; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-solar-square-dashed"
+}

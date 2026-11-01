@@ -1,0 +1,36 @@
+{
+  "id": "owner-zig",
+  "name": "Zig · official owner file · direct file · zig-mark.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "zig",
+      "version": "4f97e7a9ebce12fa48511c0b6502b6190005bc0e",
+      "license": "licenses/cc-by-sa-4-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "Zig Software Foundation marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:zig:standalone",
+    "sha256": "0141e02c77f4d944da38d29d0fb41f226e6fa1d3911f743789b4a5751dfa583d"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:zig",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-SA-4.0",
+    "licenseText": "licenses/cc-by-sa-4-0.md",
+    "credit": "Zig logo by the Zig project, https://codeberg.org/ziglang/logo",
+    "changes": "Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": true,
+    "noDerivatives": false,
+    "source": "https://raw.githubusercontent.com/ziglang/logo/4f97e7a9ebce12fa48511c0b6502b6190005bc0e/zig-mark.svg"
+  }
+}

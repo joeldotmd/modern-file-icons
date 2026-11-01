@@ -1,0 +1,32 @@
+{
+  "id": "folder-huge-pdf-01-open",
+  "name": "Lucide expanded folder + Hugeicons · Pdf01Icon",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "Pdf01Icon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 15.7, closed 11.7/12.4, open 11.5/14.4, stroke 1.9. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:huge_Pdf01Icon:open",
+    "sha256": "0dfc26a701b2e8ba29c92d31d73484247f2ccd31b2c5525bef7145c89cfb46be"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-huge-pdf-01"
+}

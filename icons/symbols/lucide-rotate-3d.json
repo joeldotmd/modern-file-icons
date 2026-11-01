@@ -1,0 +1,24 @@
+{
+  "id": "lucide-rotate-3d",
+  "name": "Lucide · Rotate3d",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Rotate3d",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Rotate3d",
+    "sha256": "098d02f6684d4aff1381f917630eea8625c34ea4bea10bc258b8396fb6b44c03"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

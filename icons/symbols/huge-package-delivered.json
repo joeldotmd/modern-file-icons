@@ -1,0 +1,24 @@
+{
+  "id": "huge-package-delivered",
+  "name": "Hugeicons · PackageDeliveredIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "PackageDeliveredIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:PackageDeliveredIcon",
+    "sha256": "08b76d897a91eaa697c42cc3b752aeaecf42259527599c5ea148ebe12c94064b"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "lucide-git-merge",
+  "name": "Lucide · GitMerge",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "GitMerge",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:GitMerge",
+    "sha256": "a4b8fdca019d3f002aeb5c8e63ad8a92f9ba29a5ec16159f8d0854dcc8779cd7"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

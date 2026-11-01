@@ -1,0 +1,24 @@
+{
+  "id": "lucide-git-commit",
+  "name": "Lucide · GitCommit",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "GitCommit",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:GitCommit",
+    "sha256": "f0f42d278eeea2dac409174f6a9013c81da714a91c8cb135dd29425a8c0ff9b6"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

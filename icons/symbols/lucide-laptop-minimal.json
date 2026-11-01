@@ -1,0 +1,24 @@
+{
+  "id": "lucide-laptop-minimal",
+  "name": "Lucide · LaptopMinimal",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "LaptopMinimal",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:LaptopMinimal",
+    "sha256": "fe93d13093f3b856052830d47eb94301069261d44942202467c9c77edf33aa33"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

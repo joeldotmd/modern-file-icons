@@ -1,0 +1,37 @@
+{
+  "id": "owner-coala",
+  "name": "Coala · official owner file · direct file · coala_color.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "coala",
+      "version": "59107063516553420d848c2e500ef2879456949a",
+      "license": "licenses/cc0-1-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "modifications": "CSS styles converted to presentation attributes.",
+  "trademark": "coala project marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:coala:standalone",
+    "sha256": "ea4c6ccbdf922550d838e11c2c1dd4996c6aecb9cfbe61b851f20d9f3d535b67"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:coala",
+    "assessment": "CONDITIONAL",
+    "license": "CC0-1.0",
+    "licenseText": "licenses/cc0-1-0.md",
+    "credit": "coala logo by the coala project (courtesy credit)",
+    "changes": "CSS styles converted to presentation attributes. Root width and height removed; the viewBox sizes the artwork. Legacy xlink:href references rewritten as href.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://raw.githubusercontent.com/coala/artwork/59107063516553420d848c2e500ef2879456949a/artwork/logo/coala_color.svg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "huge-book-open-text",
+  "name": "Hugeicons · BookOpenTextIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "BookOpenTextIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:BookOpenTextIcon",
+    "sha256": "a9a340c1cd07371f9118572849043f36bc78b698c1a1f925e2f4c574645d3cfb"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

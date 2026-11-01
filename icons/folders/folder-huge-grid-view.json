@@ -1,0 +1,32 @@
+{
+  "id": "folder-huge-grid-view",
+  "name": "Lucide closed folder + Hugeicons · GridViewIcon",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Folder",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "GridViewIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 12.5, closed 12.4/12.2, open 11.5/14.4, stroke 2.7. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:huge_GridViewIcon:closed",
+    "sha256": "f8e7049ba01b92e14f9f2025c4cd4953537a7fe56a9d089c8f379e09e2743ef8"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-huge-grid-view"
+}

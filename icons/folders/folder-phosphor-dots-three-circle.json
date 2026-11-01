@@ -1,0 +1,32 @@
+{
+  "id": "folder-phosphor-dots-three-circle",
+  "name": "Lucide closed folder + Phosphor · DotsThreeCircle · regular",
+  "category": "folder",
+  "style": "mixed",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Folder",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@phosphor-icons/react",
+      "icon": "DotsThreeCircle (regular)",
+      "version": "2.1.10",
+      "license": "licenses/phosphor-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (phosphor pack baseline): motif size 14.2, closed 12.7/12.1, open 12.5/13.3, stroke 2.3. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:phosphor-semantic_DotsThreeCircle_regular:closed",
+    "sha256": "f61e7c25f7ecffd20f1615acabfdc1b9419fcf7927a70b14d9a9a31540832262"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-phosphor-dots-three-circle"
+}

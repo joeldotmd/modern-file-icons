@@ -1,0 +1,32 @@
+{
+  "id": "folder-lucide-briefcase-open",
+  "name": "Lucide expanded folder + Briefcase",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "lucide-react",
+      "icon": "Briefcase",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (lucide pack baseline): motif size 13.4, closed 13/12.5, open 12.1/13.9, stroke 2.5. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:lucide_Briefcase:open",
+    "sha256": "1cf8bdbc1d29cf3dd3d9e05b55913c5569592c75e1e42f9980734f5b6cd48ada"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-lucide-briefcase"
+}

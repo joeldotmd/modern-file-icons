@@ -1,0 +1,24 @@
+{
+  "id": "phosphor-leaf",
+  "name": "Phosphor · Leaf · regular",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "@phosphor-icons/react",
+      "icon": "Leaf (regular)",
+      "version": "2.1.10",
+      "license": "licenses/phosphor-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "phosphor-semantic:Leaf:regular",
+    "sha256": "43bc9689ddfb68432c0e635ab810e4716297911f3be5ad0e82987f8a55a3b93f"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

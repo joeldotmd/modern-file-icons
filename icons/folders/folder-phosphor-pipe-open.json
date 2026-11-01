@@ -1,0 +1,32 @@
+{
+  "id": "folder-phosphor-pipe-open",
+  "name": "Lucide expanded folder + Phosphor · Pipe · regular",
+  "category": "folder",
+  "style": "mixed",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@phosphor-icons/react",
+      "icon": "Pipe (regular)",
+      "version": "2.1.10",
+      "license": "licenses/phosphor-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (phosphor pack baseline): motif size 14.2, closed 12.7/12.1, open 12.5/13.3, stroke 2.3. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:phosphor-semantic_Pipe_regular:open",
+    "sha256": "053058cd20fb2d1c8e3a405fa3ec30da975aec9177f77a90620b4a86e17cbe8b"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-phosphor-pipe"
+}

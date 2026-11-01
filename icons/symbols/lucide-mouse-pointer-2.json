@@ -1,0 +1,24 @@
+{
+  "id": "lucide-mouse-pointer-2",
+  "name": "Lucide · MousePointer2",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "MousePointer2",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:MousePointer2",
+    "sha256": "821da9c933ae81568ce2ed65c9d78f3e6f1111292b0bf614ee6e0d91fc8a99bb"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

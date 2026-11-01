@@ -1,0 +1,24 @@
+{
+  "id": "huge-search-01",
+  "name": "Hugeicons · Search01Icon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "Search01Icon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:Search01Icon",
+    "sha256": "12b1710300898c094cdd0963630ae1d0f75d077ab68d38ecbe5b7e04af0df07f"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

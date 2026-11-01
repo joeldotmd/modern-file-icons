@@ -1,0 +1,24 @@
+{
+  "id": "lucide-layout-template",
+  "name": "Lucide · LayoutTemplate",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "LayoutTemplate",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:LayoutTemplate",
+    "sha256": "b9eac92cccc7d3c5942a2453e6622cdf3951af02753d29be44146f980a501dc6"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

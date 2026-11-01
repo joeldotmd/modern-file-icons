@@ -1,0 +1,24 @@
+{
+  "id": "lucide-database",
+  "name": "Database",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Database",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Database",
+    "sha256": "b5caf489ec02b7d76d416741504897671399db0dbe070decfad2a2dcd353c944"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "GENERIC SOURCE-PACK ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

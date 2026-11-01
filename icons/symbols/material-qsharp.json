@@ -1,0 +1,24 @@
+{
+  "id": "material-qsharp",
+  "name": "qsharp",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "material-icon-theme",
+      "icon": "qsharp.svg",
+      "version": "5.39.0",
+      "license": "licenses/material-icon-theme-mit.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "material:qsharp",
+    "sha256": "33036476605a1870eeaa9eb2d5599757df8990fc13f92d5adf8366cd48c315c2"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "GENERIC MATERIAL; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

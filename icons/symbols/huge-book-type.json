@@ -1,0 +1,24 @@
+{
+  "id": "huge-book-type",
+  "name": "Hugeicons · BookTypeIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "BookTypeIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:BookTypeIcon",
+    "sha256": "9dce84d1eb4e8a84c966997db4ca5e7aa8d49b974827fbb662ce82dae3c158d6"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

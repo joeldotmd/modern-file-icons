@@ -1,0 +1,24 @@
+{
+  "id": "huge-grid-view",
+  "name": "Hugeicons · GridViewIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "GridViewIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:GridViewIcon",
+    "sha256": "fcfc0a7ec8f45c83472416614fb5933f2579fe5272e3ea378dd070ff03e65b5b"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

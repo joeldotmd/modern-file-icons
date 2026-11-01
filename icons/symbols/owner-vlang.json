@@ -1,0 +1,37 @@
+{
+  "id": "owner-vlang",
+  "name": "Vlang · official owner file · direct file · v-logo.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "vlang",
+      "version": "eec050c901ed3afefce8cbe56092d55ed6770706",
+      "license": "licenses/vlang-mit.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "V project marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:vlang:standalone",
+    "sha256": "72d2d1a5922ce4e6447208d7498e490cead1b5aac7536574a7717653038259f1"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:vlang",
+    "assessment": "CONDITIONAL",
+    "license": "MIT",
+    "licenseText": "licenses/vlang-mit.md",
+    "credit": "V logo by the V project",
+    "changes": "Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "notice": "Copyright (c) 2019 Don Alfons Nisnoni",
+    "source": "https://raw.githubusercontent.com/vlang/v-logo/eec050c901ed3afefce8cbe56092d55ed6770706/dist/v-logo.svg"
+  }
+}

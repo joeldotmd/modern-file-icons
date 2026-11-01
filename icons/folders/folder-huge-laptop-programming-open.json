@@ -1,0 +1,32 @@
+{
+  "id": "folder-huge-laptop-programming-open",
+  "name": "Lucide expanded folder + Hugeicons · LaptopProgrammingIcon",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "LaptopProgrammingIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 13.1, closed 12.4/12.2, open 11.5/13.8, stroke 2.7. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:huge_LaptopProgrammingIcon:open",
+    "sha256": "891d6b7d2cec9cb8f5b820a2dfc79420a7faba5c4a91ead8f93d8b39373c2a34"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-huge-laptop-programming"
+}

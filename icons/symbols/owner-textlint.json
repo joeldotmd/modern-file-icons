@@ -1,0 +1,36 @@
+{
+  "id": "owner-textlint",
+  "name": "Textlint · official owner file · direct file · textlint-icon.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "textlint",
+      "version": "284c7e75883155915c7e4d4e9cf01377509abadc",
+      "license": "licenses/cc0-1-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "textlint project marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:textlint:standalone",
+    "sha256": "2e2dfd945c7a2a331a67392ee5be4cd57c78cb2cb2de792a8b7ea63e23e05494"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:textlint",
+    "assessment": "CONDITIONAL",
+    "license": "CC0-1.0",
+    "licenseText": "licenses/cc0-1-0.md",
+    "credit": "textlint logo by Yasuaki Uechi (@uetchy)",
+    "changes": "Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://raw.githubusercontent.com/textlint/media/284c7e75883155915c7e4d4e9cf01377509abadc/icon/colored/textlint-icon.svg"
+  }
+}

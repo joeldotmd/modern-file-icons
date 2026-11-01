@@ -1,0 +1,24 @@
+{
+  "id": "lucide-binoculars",
+  "name": "Lucide · Binoculars",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Binoculars",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Binoculars",
+    "sha256": "e3caeb536c93a10cc95b32b9e96714f9da55bbdd7b80ed1e15ac08fe331dea83"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

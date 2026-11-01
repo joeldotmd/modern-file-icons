@@ -1,0 +1,24 @@
+{
+  "id": "huge-lighthouse",
+  "name": "Hugeicons · LighthouseIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "LighthouseIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:LighthouseIcon",
+    "sha256": "8ab27e31385526b0faf656e7b77a64b584b7d5503606961db2da6c68758bdf61"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

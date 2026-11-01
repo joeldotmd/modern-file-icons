@@ -1,0 +1,24 @@
+{
+  "id": "lucide-layout-grid",
+  "name": "Lucide · LayoutGrid",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "LayoutGrid",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:LayoutGrid",
+    "sha256": "903e3a8ecaadf388d09626d30f9d513914cb3859be846b217382e009fb9f968f"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

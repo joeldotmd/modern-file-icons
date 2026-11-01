@@ -1,0 +1,24 @@
+{
+  "id": "lucide-galaxy",
+  "name": "Lucide · Galaxy",
+  "category": "symbol",
+  "style": "mixed",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Galaxy",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Galaxy",
+    "sha256": "7bc8ebdb70c365eb81170b83ed3866e3376385bc1945fdc88cb251c03f84a707"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

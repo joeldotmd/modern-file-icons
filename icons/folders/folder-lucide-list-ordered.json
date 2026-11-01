@@ -1,0 +1,32 @@
+{
+  "id": "folder-lucide-list-ordered",
+  "name": "Lucide closed folder + ListOrdered",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Folder",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "lucide-react",
+      "icon": "ListOrdered",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (lucide pack baseline): motif size 13.4, closed 13/12.5, open 12.1/13.9, stroke 2.5. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:lucide_ListOrdered:closed",
+    "sha256": "1931c6f83237ff75df6cad3dac2d6a9b0fa136e554088d7b4244036f3422cad9"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-lucide-list-ordered"
+}

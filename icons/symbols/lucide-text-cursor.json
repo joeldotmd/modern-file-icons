@@ -1,0 +1,24 @@
+{
+  "id": "lucide-text-cursor",
+  "name": "Lucide · TextCursor",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "TextCursor",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:TextCursor",
+    "sha256": "eff303861fbdc8febb1b0754feb2ab859f29182fd090ffcc6065403061824f20"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

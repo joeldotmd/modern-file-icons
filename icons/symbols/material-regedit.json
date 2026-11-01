@@ -1,0 +1,24 @@
+{
+  "id": "material-regedit",
+  "name": "regedit",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "material-icon-theme",
+      "icon": "regedit.svg",
+      "version": "5.39.0",
+      "license": "licenses/material-icon-theme-mit.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "material:regedit",
+    "sha256": "25ec3e3c0b3de6fe868510bc6768a9fd41e94585ea06e459c2bbf97a1b2366f9"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "GENERIC MATERIAL; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

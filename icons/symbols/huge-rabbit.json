@@ -1,0 +1,24 @@
+{
+  "id": "huge-rabbit",
+  "name": "Hugeicons · RabbitIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "RabbitIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:RabbitIcon",
+    "sha256": "f4fa1ad454703f2c16b06d9c0ad32205ed6a03cb6423f43cd5245c2697f102c5"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

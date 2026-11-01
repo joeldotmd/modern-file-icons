@@ -1,0 +1,24 @@
+{
+  "id": "lucide-wand-sparkles",
+  "name": "Lucide · WandSparkles",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "WandSparkles",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:WandSparkles",
+    "sha256": "4257cec6ca5d48d170511dfbd6fc10472029cccf846f404e6700e1dfe4eaac79"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

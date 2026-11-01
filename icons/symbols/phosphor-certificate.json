@@ -1,0 +1,24 @@
+{
+  "id": "phosphor-certificate",
+  "name": "Phosphor · Certificate · regular",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "@phosphor-icons/react",
+      "icon": "Certificate (regular)",
+      "version": "2.1.10",
+      "license": "licenses/phosphor-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "phosphor-semantic:Certificate:regular",
+    "sha256": "560126a5b8ca46ea47ed76df01e3d8f6fd5c5484e019dbf5c0ca5a3dc374f1d0"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

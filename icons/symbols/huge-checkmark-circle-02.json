@@ -1,0 +1,24 @@
+{
+  "id": "huge-checkmark-circle-02",
+  "name": "Hugeicons · CheckmarkCircle02Icon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "CheckmarkCircle02Icon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:CheckmarkCircle02Icon",
+    "sha256": "6ec6fe0e0bfc9846ffe2d4d8d3c47298d5e20680c484ddd9e0b43c1093cf426e"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

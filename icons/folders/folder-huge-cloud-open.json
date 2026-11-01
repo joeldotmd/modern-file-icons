@@ -1,0 +1,32 @@
+{
+  "id": "folder-huge-cloud-open",
+  "name": "Lucide expanded folder + Hugeicons Stroke Rounded · CloudIcon",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "CloudIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (hugeicons pack baseline): motif size 13.3, closed 12.9/11.7, open 12.5/12.6, stroke 2.7. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:huge_CloudIcon:open",
+    "sha256": "41c90405da2c628de407624dd645b5fd78f9dd864f7d795dc25d731788444873"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-huge-cloud"
+}

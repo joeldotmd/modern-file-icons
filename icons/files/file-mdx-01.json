@@ -1,0 +1,25 @@
+{
+  "id": "file-mdx-01",
+  "name": "Hugeicons document + MDX (proposed 01)",
+  "category": "file",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "Doc01Icon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (lucide pack baseline): motif size 13.4, closed 13/12.5, open 12.1/13.9, stroke 2.5.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "proposal:file-mdx-01",
+    "sha256": "b3c834fe1f4f76d85b88288c0fcfcb1a429b6f505812eaf130f2f21b5605676c"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "GENERIC FILE / DOCUMENT COMPOSITE; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

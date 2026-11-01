@@ -1,0 +1,24 @@
+{
+  "id": "lucide-notebook-pen",
+  "name": "Lucide · NotebookPen",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "NotebookPen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:NotebookPen",
+    "sha256": "b4159772991db461499377d5d42152e6f5ad5d30ec5112c8b22d865de6b64fd6"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

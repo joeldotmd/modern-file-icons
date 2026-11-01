@@ -1,0 +1,24 @@
+{
+  "id": "huge-notebook-text",
+  "name": "Hugeicons · NotebookTextIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "NotebookTextIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:NotebookTextIcon",
+    "sha256": "c802d030a5111144660b5ebdb90ab391665ad58603187df7d1c3c1d2bdcdab54"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

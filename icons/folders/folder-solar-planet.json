@@ -1,0 +1,32 @@
+{
+  "id": "folder-solar-planet",
+  "name": "Lucide closed folder + Solar · Planet",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Folder",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@solar-icons/react",
+      "icon": "planet (Linear)",
+      "version": "2.3.2",
+      "license": "licenses/solar-cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 12.9, closed 12.8/12.5, open 12.4/14.2, stroke 2.4. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:solar_planet:closed",
+    "sha256": "8fc5409f1c8eb2663858c23b0d69596ea42d4af1e4c85c0c60c0a3b1c27bfdb8"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH ATTRIBUTION; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-solar-planet"
+}

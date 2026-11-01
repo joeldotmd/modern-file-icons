@@ -1,0 +1,24 @@
+{
+  "id": "huge-play-circle",
+  "name": "Hugeicons · PlayCircleIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "PlayCircleIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:PlayCircleIcon",
+    "sha256": "ca6eb89963861e434e27cc8a9c6163c1fbdbc8e7d29c4a1f49b20d6323be63bf"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

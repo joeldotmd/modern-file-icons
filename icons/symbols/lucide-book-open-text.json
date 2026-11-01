@@ -1,0 +1,24 @@
+{
+  "id": "lucide-book-open-text",
+  "name": "Lucide · BookOpenText",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "BookOpenText",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:BookOpenText",
+    "sha256": "9f3ee9b6c7d04253179146f0a85aaa50f02ddb750df012ce1f870ff08f412387"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

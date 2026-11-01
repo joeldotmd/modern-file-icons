@@ -1,0 +1,24 @@
+{
+  "id": "lucide-hammer",
+  "name": "Hammer",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Hammer",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Hammer",
+    "sha256": "0ff4a30e830dc995e3cb14acd981a7ccfe821d4fb8444305ff800ccfd9d26fd8"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "GENERIC SEMANTIC SOURCE; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

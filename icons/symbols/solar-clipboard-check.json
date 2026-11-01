@@ -1,0 +1,24 @@
+{
+  "id": "solar-clipboard-check",
+  "name": "Solar · ClipboardCheck",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@solar-icons/react",
+      "icon": "clipboard-check (Linear)",
+      "version": "2.3.2",
+      "license": "licenses/solar-cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "solar:clipboard-check",
+    "sha256": "fbf86a8bf0e2cb011ff67afa5c7c499a1854007d5015ce67a45da1f645e823c0"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH ATTRIBUTION; GENERIC LICENSED MOTIF"
+  }
+}

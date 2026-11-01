@@ -1,0 +1,24 @@
+{
+  "id": "huge-radar-01",
+  "name": "Hugeicons · Radar01Icon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "Radar01Icon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:Radar01Icon",
+    "sha256": "552b3934c7bb0b2c8f74a8304b6a2140ee8da64a8e3ebd91147556f5dfd80955"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

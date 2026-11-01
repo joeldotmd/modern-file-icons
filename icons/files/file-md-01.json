@@ -1,0 +1,20 @@
+{
+  "id": "file-md-01",
+  "name": "Markdown File 01",
+  "category": "file",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "Doc01Icon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": {
+    "color": true,
+    "strokeWidth": true
+  },
+  "variantGroup": "file-markdown",
+  "modifications": "Preserved the Doc01 open-bottom document contour and replaced its lettering with custom full-width MD lettering."
+}

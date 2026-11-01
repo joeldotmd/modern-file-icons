@@ -1,0 +1,24 @@
+{
+  "id": "phosphor-shipping-container",
+  "name": "Phosphor · ShippingContainer · regular",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "@phosphor-icons/react",
+      "icon": "ShippingContainer (regular)",
+      "version": "2.1.10",
+      "license": "licenses/phosphor-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "phosphor-semantic:ShippingContainer:regular",
+    "sha256": "7a184ecbabf1902da613840fe73bd7c797e2b3fe1b260538342a9e02fb7f2758"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

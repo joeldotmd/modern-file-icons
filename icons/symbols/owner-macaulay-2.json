@@ -1,0 +1,36 @@
+{
+  "id": "owner-macaulay-2",
+  "name": "Macaulay2 · official owner file · direct file · icon.gif",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "macaulay2",
+      "version": "cb26b4f77ccd96e19b966a6657c1237d4af2084c",
+      "license": "licenses/cc0-1-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "Macaulay2 project marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:macaulay2:standalone",
+    "sha256": "58b23cce255ca1901a8b76f068b8b68aeaade8115a91635bd9d781f7fd640563"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:macaulay2",
+    "assessment": "CONDITIONAL",
+    "license": "CC0-1.0",
+    "licenseText": "licenses/cc0-1-0.md",
+    "credit": "Macaulay2 icon by Daniel R. Grayson, Macaulay2 project (courtesy credit)",
+    "changes": "Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://raw.githubusercontent.com/Macaulay2/Macaulay2-web-site/cb26b4f77ccd96e19b966a6657c1237d4af2084c/Style/icon.gif"
+  }
+}

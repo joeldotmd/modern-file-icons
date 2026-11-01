@@ -1,0 +1,24 @@
+{
+  "id": "phosphor-circles-three",
+  "name": "Phosphor · CirclesThree · regular",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "@phosphor-icons/react",
+      "icon": "CirclesThree (regular)",
+      "version": "2.1.10",
+      "license": "licenses/phosphor-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "phosphor-semantic:CirclesThree:regular",
+    "sha256": "9ef422ed3d67e7aea91a44c0837add6b8f43b7c4647980632f37c3f5a858584c"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

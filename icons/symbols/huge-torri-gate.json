@@ -1,0 +1,24 @@
+{
+  "id": "huge-torri-gate",
+  "name": "Hugeicons · TorriGateIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "TorriGateIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:TorriGateIcon",
+    "sha256": "645c4537b2beda2f9fb67f1b75a28264bca9292df055790232f4bd2d476891d3"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

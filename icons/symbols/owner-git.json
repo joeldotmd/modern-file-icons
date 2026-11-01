@@ -1,0 +1,36 @@
+{
+  "id": "owner-git",
+  "name": "Git · official owner file · direct file · Git-Icon-1788C.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "git",
+      "version": "8906575939de17ab6df6aeef2e1200806cb17431",
+      "license": "licenses/cc-by-3-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "Git is a trademark of Software Freedom Conservancy; used only to identify Git files; no affiliation implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:git:standalone",
+    "sha256": "28389a53dd9b74f65d8594d544d38144ce5f7812f2f7d870f48f38d3c2bf9005"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:git",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-3.0",
+    "licenseText": "licenses/cc-by-3-0.md",
+    "credit": "Git Logo by Jason Long (https://git-scm.com/community/logos)",
+    "changes": "Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://raw.githubusercontent.com/git/git-scm.com/8906575939de17ab6df6aeef2e1200806cb17431/static/images/logos/downloads/Git-Icon-1788C.svg"
+  }
+}

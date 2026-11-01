@@ -1,0 +1,24 @@
+{
+  "id": "huge-search-check",
+  "name": "Hugeicons · SearchCheckIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "SearchCheckIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:SearchCheckIcon",
+    "sha256": "ea8e7d401b5b0d9d7aae2b67cb30300018ce7fe4ea7cba9ff9c062f1e7aeadb8"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

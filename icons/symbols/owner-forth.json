@@ -1,0 +1,37 @@
+{
+  "id": "owner-forth",
+  "name": "Forth · official owner file · direct file · forth.png",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "forth",
+      "version": "fc179237a915c2dc54b075485ddb5803544dcc97",
+      "license": "licenses/owner-artwork.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "Forth logo author (G. Wodni) / Forth community marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:forth:standalone",
+    "sha256": "8aebd9484a3a61f3a7d772d8ba3785885d6dce36184e86c2fa2f0dd411b6afc2"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:forth",
+    "assessment": "CONDITIONAL",
+    "license": "LicenseRef-Public-Domain-Dedication",
+    "licenseText": "licenses/owner-artwork.md",
+    "credit": "Forth logo by Gerald Wodni (public domain; credit appreciated)",
+    "changes": "Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "notice": "Author dedication by Gerald Wodni: \"tl;dr: Public Domain\"; \"I want to enable widespread usage also in cases where it might be considered comercial use\"; \"I would appreciate attribution\".",
+    "source": "https://raw.githubusercontent.com/GeraldWodni/forth-logo/fc179237a915c2dc54b075485ddb5803544dcc97/forth-standard.org/forth.png"
+  }
+}

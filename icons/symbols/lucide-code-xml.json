@@ -1,0 +1,24 @@
+{
+  "id": "lucide-code-xml",
+  "name": "CodeXml",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "CodeXml",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:CodeXml",
+    "sha256": "8c47486399487a1f909c4468f1417b3f0db7e8afa01aab700c6fd9fc7486f58f"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "GENERIC SOURCE-PACK ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

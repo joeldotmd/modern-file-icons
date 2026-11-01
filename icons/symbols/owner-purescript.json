@@ -1,0 +1,37 @@
+{
+  "id": "owner-purescript",
+  "name": "Purescript · official owner file · alternate file · purescript-favicon-black.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "purescript",
+      "version": "1e7a57affdaeaf88ff594c08bd2b5a78fe2ed13c",
+      "license": "licenses/cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "modifications": "CSS styles converted to presentation attributes.",
+  "trademark": "PureScript project marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:purescript:standalone",
+    "sha256": "e8531f7dce99a1eca00259f5883eba9a80d2caee0606bc09aa1097ee531e71a0"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:purescript",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-4.0",
+    "licenseText": "licenses/cc-by-4-0.md",
+    "credit": "PureScript logo by Gareth Hughes",
+    "changes": "CSS styles converted to presentation attributes. Root width and height removed; the viewBox sizes the artwork. Editor and selector bookkeeping attributes removed.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://raw.githubusercontent.com/purescript/logo/1e7a57affdaeaf88ff594c08bd2b5a78fe2ed13c/favicon/purescript-favicon-black.svg"
+  }
+}

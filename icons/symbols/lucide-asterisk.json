@@ -1,0 +1,24 @@
+{
+  "id": "lucide-asterisk",
+  "name": "Lucide · Asterisk",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Asterisk",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Asterisk",
+    "sha256": "38ef5ea1ca454f87d97cf637d8319339799b8821b77ec34db0ff512203b88e1e"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

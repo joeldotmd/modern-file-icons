@@ -1,0 +1,24 @@
+{
+  "id": "lucide-chess-knight",
+  "name": "Lucide · ChessKnight",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "ChessKnight",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:ChessKnight",
+    "sha256": "2ec64b0f4d866e73b434918e69757112bf86d5e0f89e0af8e92b98d6ce22403a"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

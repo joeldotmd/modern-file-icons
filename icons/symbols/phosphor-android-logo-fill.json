@@ -1,0 +1,36 @@
+{
+  "id": "phosphor-android-logo-fill",
+  "name": "Phosphor AndroidLogo · fill (stylized brand, unofficial)",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "@phosphor-icons/react",
+      "icon": "AndroidLogo (fill)",
+      "version": "2.1.10",
+      "license": "licenses/phosphor-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": false },
+  "trademark": "Google retains all trademark rights to the Android robot.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "phosphor:AndroidLogo:fill",
+    "sha256": "4b7c57f974036dc1b4d482e0751d78e2c0635a71713270b0d969a705de8aa76c"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:android",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-3.0",
+    "licenseText": "licenses/cc-by-3-0.md",
+    "credit": "The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.",
+    "changes": "Android robot redrawn by Phosphor Icons (AndroidLogo, fill); recoloured by Modern File Icons. Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://developer.android.com/legal"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "huge-java-script",
+  "name": "JavaScriptIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "JavaScriptIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "trademark": "JavaScript is a trademark of Oracle Corporation.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:JavaScriptIcon",
+    "sha256": "66d2a7f398d7635a446642bcb85c70414ab98ccce49015e00b201ec2fcfc2516"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:javascript",
+    "assessment": "CONDITIONAL",
+    "license": "MIT",
+    "licenseText": "licenses/hugeicons-mit.md",
+    "credit": "JavaScript icon from Hugeicons",
+    "changes": "Root width and height removed; the viewBox sizes the artwork. Editor and selector bookkeeping attributes removed.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "notice": "Copyright (c) 2025 Hugeicons",
+    "source": "https://www.npmjs.com/package/@hugeicons/core-free-icons/v/4.3.5 (JavaScriptIcon)"
+  }
+}

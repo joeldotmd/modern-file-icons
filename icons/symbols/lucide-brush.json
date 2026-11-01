@@ -1,0 +1,24 @@
+{
+  "id": "lucide-brush",
+  "name": "Lucide · Brush",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Brush",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Brush",
+    "sha256": "f3f83ee83d1c0c84cf7d1fdf027e729b90af6a24e0efc4779e5a8502cb8fe521"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

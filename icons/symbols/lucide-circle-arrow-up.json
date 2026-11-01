@@ -1,0 +1,24 @@
+{
+  "id": "lucide-circle-arrow-up",
+  "name": "Lucide · CircleArrowUp",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "CircleArrowUp",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:CircleArrowUp",
+    "sha256": "d56595109fd6b4ca1a2249b9478fc4537a2ebca10c37c1f2791740974b305b66"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

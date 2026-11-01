@@ -1,0 +1,37 @@
+{
+  "id": "owner-prettier",
+  "name": "Prettier · official owner file · direct file · prettier-icon-light.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "prettier",
+      "version": "e638a708b41a176a46cfbbf9d3ed4910132df265",
+      "license": "licenses/prettier-mit.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "Prettier project marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:prettier:standalone",
+    "sha256": "70a6a2e2c21a456f84eba7274200deacd9e785167889463753203e25e64539f5"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:prettier",
+    "assessment": "CONDITIONAL",
+    "license": "MIT",
+    "licenseText": "licenses/prettier-mit.md",
+    "credit": "Prettier logo by the Prettier project",
+    "changes": "Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "notice": "Copyright 2017 James Long",
+    "source": "https://raw.githubusercontent.com/prettier/prettier-logo/e638a708b41a176a46cfbbf9d3ed4910132df265/images/prettier-icon-light.svg"
+  }
+}

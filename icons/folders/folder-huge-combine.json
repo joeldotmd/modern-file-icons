@@ -1,0 +1,32 @@
+{
+  "id": "folder-huge-combine",
+  "name": "Lucide closed folder + Hugeicons · CombineIcon",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Folder",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "CombineIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (hugeicons pack baseline): motif size 13.3, closed 12.9/11.7, open 12.5/12.6, stroke 2.7. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:huge_CombineIcon:closed",
+    "sha256": "a834e66e5c004f7327c5d1fad4fcf735e0a1dcba1b5152a4f8b655933ca5a2e7"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-huge-combine"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "folder-solar-chat-round-line",
+  "name": "Lucide closed folder + Solar · ChatRoundLine",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Folder",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@solar-icons/react",
+      "icon": "chat-round-line (Linear)",
+      "version": "2.3.2",
+      "license": "licenses/solar-cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 12.5, closed 12.8/12.5, open 12.4/14.2, stroke 2.4. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:solar_chat-round-line:closed",
+    "sha256": "753938a3144bfa8cda96433155a2c9c516dcd07bbeb500d71de2f4d1f467f3c4"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH ATTRIBUTION; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-solar-chat-round-line"
+}

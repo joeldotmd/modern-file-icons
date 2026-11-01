@@ -1,0 +1,24 @@
+{
+  "id": "huge-file-x",
+  "name": "Hugeicons · FileXIcon",
+  "category": "file",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "FileXIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:FileXIcon",
+    "sha256": "cfc7b45783857ae784de207fb0c8b5ef3f298553002fd38cbf0672be12e384f9"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

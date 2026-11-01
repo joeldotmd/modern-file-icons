@@ -1,0 +1,36 @@
+{
+  "id": "simple-icons-ruby",
+  "name": "Ruby",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "simple-icons",
+      "icon": "Ruby",
+      "version": "16.34.0",
+      "license": "licenses/cc-by-sa-2-5.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "Ruby (Y. Matsumoto) marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "simple:Ruby",
+    "sha256": "e2e59378c6a5d4bc719322f2a2ef0b9c19dcfe090f4399a0a62acbc5a82e3b81"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:ruby",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-SA-2.5",
+    "licenseText": "licenses/cc-by-sa-2-5.md",
+    "credit": "Ruby logo by Yukihiro Matsumoto, 2006",
+    "changes": "Monochrome adaptation by Simple Icons. Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": true,
+    "noDerivatives": false,
+    "source": "https://www.ruby-lang.org/en/about/logo/"
+  }
+}

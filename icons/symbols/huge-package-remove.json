@@ -1,0 +1,24 @@
+{
+  "id": "huge-package-remove",
+  "name": "Hugeicons · PackageRemoveIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "PackageRemoveIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:PackageRemoveIcon",
+    "sha256": "e97c2685ef611cf18d6c489a3056d7993c9f8fa55f7c59445c0e0d8569cdb9a5"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

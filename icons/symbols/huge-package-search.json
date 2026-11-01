@@ -1,0 +1,24 @@
+{
+  "id": "huge-package-search",
+  "name": "Hugeicons · PackageSearchIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "PackageSearchIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:PackageSearchIcon",
+    "sha256": "60d906af9a46bc9a5a130c1320a48c22a8c5f77f23997ab33522fae118fcc96a"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

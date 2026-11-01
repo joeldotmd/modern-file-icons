@@ -1,0 +1,24 @@
+{
+  "id": "lucide-laptop",
+  "name": "Lucide · Laptop",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Laptop",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Laptop",
+    "sha256": "1fe339ff6a2784fe4562631283ef1081a5fd3e9c50bbc95d27f6e271039b5189"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

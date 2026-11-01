@@ -1,0 +1,179 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/joeldotmd/modern-file-icons/schemas/icon.schema.json",
+  "title": "Icon Metadata",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "name", "category", "style", "sources", "customization"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "category": {
+      "enum": ["folder", "file", "symbol"]
+    },
+    "style": {
+      "enum": ["outline", "filled", "mixed"]
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["library", "icon", "version", "license"],
+        "properties": {
+          "library": {
+            "type": "string",
+            "minLength": 1
+          },
+          "icon": {
+            "type": "string",
+            "minLength": 1
+          },
+          "version": {
+            "type": "string",
+            "minLength": 1
+          },
+          "license": {
+            "type": "string",
+            "pattern": "^licenses/[a-z0-9]+(?:-[a-z0-9]+)*\\.md$"
+          }
+        }
+      }
+    },
+    "customization": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["color", "strokeWidth"],
+      "properties": {
+        "color": {
+          "type": "boolean"
+        },
+        "strokeWidth": {
+          "type": "boolean"
+        }
+      }
+    },
+    "variantGroup": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "modifications": {
+      "type": "string",
+      "minLength": 1
+    },
+    "trademark": {
+      "type": "string",
+      "minLength": 1
+    },
+    "origin": {
+      "description": "Review candidate this artwork was imported from.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["seed", "candidate"],
+      "properties": {
+        "seed": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Seed id of the review selector this artwork was picked from."
+        },
+        "candidate": {
+          "type": "string",
+          "minLength": 1
+        },
+        "sha256": {
+          "description": "SHA-256 of the canonical SVG file as imported; detects later edits.",
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        }
+      }
+    },
+    "release": {
+      "description": "Distribution gate. Held artwork is excluded from release builds.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "basis"],
+      "properties": {
+        "status": {
+          "enum": ["eligible", "held"]
+        },
+        "basis": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "rights": {
+      "description": "Rights for brand or owner artwork, generated from the theme's rights register. Not a clearance.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "decision",
+        "assessment",
+        "license",
+        "licenseText",
+        "credit",
+        "changes",
+        "shareAlike",
+        "noDerivatives"
+      ],
+      "properties": {
+        "decision": {
+          "type": "string",
+          "minLength": 1
+        },
+        "assessment": {
+          "enum": ["PERMITTED", "CONDITIONAL", "PERMISSION-NEEDED", "PROHIBITED", "UNVERIFIED"]
+        },
+        "license": {
+          "description": "Licence of the depicted owner artwork (SPDX identifier or LicenseRef).",
+          "type": "string",
+          "minLength": 1
+        },
+        "licenseText": {
+          "type": "string",
+          "pattern": "^licenses/[a-z0-9]+(?:-[a-z0-9]+)*\\.md$"
+        },
+        "credit": {
+          "type": "string",
+          "minLength": 1
+        },
+        "notice": {
+          "type": "string",
+          "minLength": 1
+        },
+        "changes": {
+          "description": "Change notice for this file.",
+          "type": "string",
+          "minLength": 1
+        },
+        "shareAlike": {
+          "description": "This file must be shared under the same licence.",
+          "type": "boolean"
+        },
+        "noDerivatives": {
+          "description": "Only unmodified or technically converted copies may be shared.",
+          "type": "boolean"
+        },
+        "unresolved": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "description": "Open questions that keep artwork held."
+        },
+        "source": {
+          "description": "Where the licensed material was obtained.",
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    }
+  }
+}

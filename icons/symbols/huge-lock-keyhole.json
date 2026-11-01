@@ -1,0 +1,24 @@
+{
+  "id": "huge-lock-keyhole",
+  "name": "Hugeicons · LockKeyholeIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "LockKeyholeIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:LockKeyholeIcon",
+    "sha256": "b5599df3537e00c42716e8217c77f65ae730d237484109268469a6b07af9aad0"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

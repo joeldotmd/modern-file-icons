@@ -1,0 +1,36 @@
+{
+  "id": "owner-angular",
+  "name": "Angular · official owner file · angular.dev site header · inline gradient logo SVG",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "angular",
+      "version": "unpinned (copy embedded in selector v6.12)",
+      "license": "licenses/cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "Google LLC marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:angular:standalone",
+    "sha256": "0f6d2f79f5c918886326a3c19b5f988369dc203188a60422317dc68b42a89a3d"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:angular",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-4.0",
+    "licenseText": "licenses/cc-by-4-0.md",
+    "credit": "Angular logo © Google LLC, from the Angular press kit (https://angular.dev/press-kit)",
+    "changes": "Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://angular.dev/ (site header inline SVG; build not recorded)"
+  }
+}

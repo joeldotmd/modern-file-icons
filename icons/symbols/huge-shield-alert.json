@@ -1,0 +1,24 @@
+{
+  "id": "huge-shield-alert",
+  "name": "Hugeicons · ShieldAlertIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "ShieldAlertIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:ShieldAlertIcon",
+    "sha256": "2c2cef13cf4cb3ba88e083fd07231cfe19d09a0d9e85190195f298b505d057ec"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

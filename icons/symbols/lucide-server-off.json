@@ -1,0 +1,24 @@
+{
+  "id": "lucide-server-off",
+  "name": "Lucide · ServerOff",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "ServerOff",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:ServerOff",
+    "sha256": "41e38c93f989f5bfe04baeebcc96d371b54b2bba1d82ed82a68944679f368e86"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

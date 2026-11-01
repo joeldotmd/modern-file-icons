@@ -1,0 +1,37 @@
+{
+  "id": "owner-javascript-map",
+  "name": "Javascript Map · official owner file · direct file · js.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "javascript-map",
+      "version": "1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9",
+      "license": "licenses/logo-js-mit.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "JavaScript is a trademark of Oracle Corporation.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:javascript-map:standalone",
+    "sha256": "d99bc3d0fffbea9268042c4a01ba15b911f4001a8fef08a518cbb90d0f8e2547"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:javascript-map",
+    "assessment": "CONDITIONAL",
+    "license": "MIT",
+    "licenseText": "licenses/logo-js-mit.md",
+    "credit": "JavaScript logo from logo.js by Christopher Williams and Manuel Strehl",
+    "changes": "Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "notice": "Copyright (c) 2011 Christopher Williams <chris@iterativedesigns.com>, Manuel Strehl <boldewyn@gmail.com>",
+    "source": "https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg"
+  }
+}

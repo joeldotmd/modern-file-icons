@@ -1,0 +1,24 @@
+{
+  "id": "lucide-key-round",
+  "name": "KeyRound",
+  "category": "symbol",
+  "style": "mixed",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "KeyRound",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:KeyRound",
+    "sha256": "377ad516ad57dcadef21fe1507791c1b217888c1387addee9d745e3d36ea3158"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "GENERIC SOURCE-PACK ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

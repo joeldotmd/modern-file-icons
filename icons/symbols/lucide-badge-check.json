@@ -1,0 +1,24 @@
+{
+  "id": "lucide-badge-check",
+  "name": "Lucide · BadgeCheck",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "BadgeCheck",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:BadgeCheck",
+    "sha256": "ff6ed773a3c45ef68cef3f2a04e3c24614d1f367639baefb4a32cb91d859319f"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

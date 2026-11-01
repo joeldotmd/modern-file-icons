@@ -1,0 +1,32 @@
+{
+  "id": "folder-huge-ship-wheel-open",
+  "name": "Lucide expanded folder + Hugeicons · ShipWheelIcon",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "ShipWheelIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 13.3, closed 12.9/11.7, open 12.5/12.6, stroke 2.1. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:huge_ShipWheelIcon:open",
+    "sha256": "df7029acb7aa1ef0531456b06bef86c721cf458e5ee63d6c4634cc7fa0929e94"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-huge-ship-wheel"
+}

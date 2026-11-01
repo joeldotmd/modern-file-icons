@@ -1,0 +1,24 @@
+{
+  "id": "lucide-tree-pine",
+  "name": "Lucide · TreePine",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "TreePine",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:TreePine",
+    "sha256": "2361f7ca13dbe2b879a1d480b66267fee969d9fe04f21a40c747eefecb2e70ae"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "file-js-02",
+  "name": "JavaScript File 02",
+  "category": "file",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "Doc02Icon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": {
+    "color": true,
+    "strokeWidth": true
+  },
+  "variantGroup": "file-javascript",
+  "modifications": "Preserved the Doc02 full bottom edge and interrupted right side; drew narrower right-aligned JS lettering."
+}

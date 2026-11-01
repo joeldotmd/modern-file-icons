@@ -1,0 +1,45 @@
+{
+  "name": "modern-file-icons",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joeldotmd/modern-file-icons.git"
+  },
+  "type": "module",
+  "packageManager": "bun@1.4.2",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "typecheck": "tsc --noEmit",
+    "schema:generate": "bun tools/schema.ts generate",
+    "schema:check": "bun tools/schema.ts check",
+    "icons:validate": "bun tools/icons.ts validate",
+    "icons:generate": "bun tools/icons.ts generate",
+    "icons:check": "bun tools/icons.ts check",
+    "test": "bun test",
+    "check": "bun run format:check && bun run schema:check && bun run typecheck && bun run test && bun run icons:check && bun run theme:validate && bun run rights:check && bun run public:check",
+    "theme:import": "bun tools/import-selector.ts",
+    "theme:validate": "bun tools/theme.ts validate",
+    "theme:build": "bun tools/theme.ts build",
+    "theme:package": "bun tools/package.ts pack",
+    "theme:package:check": "bun tools/package.ts check",
+    "vscode:package": "bun tools/vscode.ts",
+    "theme:verify-browser": "bun tools/browser-verify.ts",
+    "rights:check": "bun tools/rights.ts check",
+    "rights:generate": "bun tools/rights.ts generate",
+    "public:check": "bun tools/theme.ts public-check",
+    "theme:reproduce": "bun tools/import-selector.ts --check"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "2.6.2",
+    "@types/bun": "1.4.0",
+    "@vscode/vsce": "4.1.0",
+    "@xmldom/xmldom": "0.9.12",
+    "ajv": "8.17.1",
+    "json-schema-to-typescript": "16.0.0",
+    "playwright": "1.64.1",
+    "prettier": "3.9.6",
+    "typescript": "7.0.2"
+  },
+  "license": "MIT"
+}

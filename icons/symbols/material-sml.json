@@ -1,0 +1,37 @@
+{
+  "id": "material-sml",
+  "name": "sml",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "material-icon-theme",
+      "icon": "sml.svg",
+      "version": "5.39.0",
+      "license": "licenses/material-icon-theme-mit.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "Unattributed / multi-party (Material Icon Theme drawing; steward to confirm) marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "material:sml",
+    "sha256": "a242633631e17263e7389cb1a8109b39281378f332b452d3dcd5fec453aeeb15"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:sml",
+    "assessment": "CONDITIONAL",
+    "license": "MIT",
+    "licenseText": "licenses/material-icon-theme-mit.md",
+    "credit": "Drawing from Material Icon Theme by Material Extensions",
+    "changes": "Unmodified artwork in Modern File Icons' self-contained SVG format.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "notice": "Copyright (c) 2025 Material Extensions",
+    "source": "https://registry.npmjs.org/material-icon-theme/-/material-icon-theme-5.39.0.tgz"
+  }
+}

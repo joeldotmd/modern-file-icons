@@ -1,0 +1,24 @@
+{
+  "id": "lucide-pen-tool",
+  "name": "Lucide · PenTool",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "PenTool",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:PenTool",
+    "sha256": "498b47d86b25c6fc2b8a5429ce382e1bb3f95fbd6351cf47259cc32eb48cb88a"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

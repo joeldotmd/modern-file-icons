@@ -1,0 +1,24 @@
+{
+  "id": "huge-package-open",
+  "name": "Hugeicons · PackageOpenIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "PackageOpenIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:PackageOpenIcon",
+    "sha256": "b9162315513ebdbc5b5ad2e80db130b5b1a98a37859b762d725119189df4cebc"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

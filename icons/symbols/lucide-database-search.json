@@ -1,0 +1,24 @@
+{
+  "id": "lucide-database-search",
+  "name": "Lucide · DatabaseSearch",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "DatabaseSearch",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:DatabaseSearch",
+    "sha256": "9d6fe5bd7c35f819585a7e0ff525545f8f0bc6188df47d9bb35b6e3e416bca5a"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

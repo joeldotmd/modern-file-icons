@@ -1,0 +1,24 @@
+{
+  "id": "huge-square-asterisk",
+  "name": "Hugeicons · SquareAsteriskIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "SquareAsteriskIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:SquareAsteriskIcon",
+    "sha256": "8713c08acc556dcec91ac4e3b4cc5c757b47a945eb1dae24f9497fa3413c6e18"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

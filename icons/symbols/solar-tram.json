@@ -1,0 +1,24 @@
+{
+  "id": "solar-tram",
+  "name": "Solar · Tram",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@solar-icons/react",
+      "icon": "tram (Linear)",
+      "version": "2.3.2",
+      "license": "licenses/solar-cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "solar:tram",
+    "sha256": "324d0aed26e9dfb69cbeebd54b6f011a89a66d215c652a22a9615cc5e21eb4d5"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH ATTRIBUTION; GENERIC LICENSED MOTIF"
+  }
+}

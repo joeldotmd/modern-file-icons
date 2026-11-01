@@ -1,0 +1,24 @@
+{
+  "id": "huge-colosseum",
+  "name": "Hugeicons · ColosseumIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "ColosseumIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:ColosseumIcon",
+    "sha256": "598e5edde533dcc550b404c95f2d87089d0301afdf0a556cd7057b8f95f4cc2a"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

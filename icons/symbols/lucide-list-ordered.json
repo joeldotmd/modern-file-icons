@@ -1,0 +1,24 @@
+{
+  "id": "lucide-list-ordered",
+  "name": "Lucide · ListOrdered",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "ListOrdered",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:ListOrdered",
+    "sha256": "29d8890f544eca3a23f22a5c9f3915781aa95f227d670d3410e9d7bfd458e2f3"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "folder-huge-java-script-open",
+  "name": "Lucide expanded folder + Hugeicons · JavaScriptIcon",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "JavaScriptIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 14.7, closed 12.9/13.1, open 12.5/14.1, stroke 2. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "trademark": "JavaScript is a trademark of Oracle Corporation.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:huge_JavaScriptIcon:open",
+    "sha256": "1545cd5a99feeb3f59a54293824e921824aeed9849e81ba78b94be8bef150b2f"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "folder:folder-javascript",
+    "assessment": "CONDITIONAL",
+    "license": "MIT",
+    "licenseText": "licenses/hugeicons-mit.md",
+    "credit": "JavaScript icon from Hugeicons",
+    "changes": "Scaled and placed in a Lucide folder outline by Modern File Icons. Selector calibration (artwork override): motif size 14.7, closed 12.9/13.1, open 12.5/14.1, stroke 2. Nested SVG viewport kept as authored, with its position and size made explicit. Root width and height removed; the viewBox sizes the artwork. Editor and selector bookkeeping attributes removed.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "notice": "Copyright (c) 2025 Hugeicons",
+    "source": "https://www.npmjs.com/package/@hugeicons/core-free-icons/v/4.3.5 (JavaScriptIcon)"
+  },
+  "variantGroup": "folder-huge-java-script"
+}

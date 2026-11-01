@@ -1,0 +1,24 @@
+{
+  "id": "huge-command-line",
+  "name": "Hugeicons · CommandLineIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "CommandLineIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:CommandLineIcon",
+    "sha256": "2b0207a0aba3bcca98eb55c6e25028a61266973b2edf7d3b57d5d3069b8b8995"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

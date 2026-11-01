@@ -1,0 +1,32 @@
+{
+  "id": "folder-solar-clock-circle",
+  "name": "Lucide closed folder + Solar · ClockCircle",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Folder",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@solar-icons/react",
+      "icon": "clock-circle (Linear)",
+      "version": "2.3.2",
+      "license": "licenses/solar-cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (solar pack baseline): motif size 11.5, closed 12.8/12.5, open 12.4/14.2, stroke 2.4. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:solar_clock-circle:closed",
+    "sha256": "9bb0c05a74a814a78557fdd11f2b0d50268e091130fa8e486b106615ea9ce81e"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH ATTRIBUTION; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-solar-clock-circle"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "owner-css-map",
+  "name": "Css Map · official owner file · direct file · css.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "css-map",
+      "version": "48f24dccd4e169118d17bab998c3d276e95167df",
+      "license": "licenses/cc0-1-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "CSS-Next Community Group (W3C) marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:css-map:standalone",
+    "sha256": "10cada2f48462b58b50669d2cf773f1e019297e91a100dd9b70167a919f20143"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:css-map",
+    "assessment": "PERMITTED",
+    "license": "CC0-1.0",
+    "licenseText": "licenses/cc0-1-0.md",
+    "credit": "CSS logo by the CSS-Next Community Group",
+    "changes": "Root width and height removed; the viewBox sizes the artwork. Editor and selector bookkeeping attributes removed.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://raw.githubusercontent.com/CSS-Next/logo.css/48f24dccd4e169118d17bab998c3d276e95167df/css.svg"
+  }
+}

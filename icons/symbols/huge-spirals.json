@@ -1,0 +1,24 @@
+{
+  "id": "huge-spirals",
+  "name": "Hugeicons · SpiralsIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "SpiralsIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:SpiralsIcon",
+    "sha256": "115da06aa4f1f3cb6c2d59f1aefa7c043dc6346de8fd68f18df580d5d40f83a5"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

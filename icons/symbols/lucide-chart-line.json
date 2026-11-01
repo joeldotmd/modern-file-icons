@@ -1,0 +1,24 @@
+{
+  "id": "lucide-chart-line",
+  "name": "Lucide · ChartLine",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "ChartLine",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:ChartLine",
+    "sha256": "d733c1ad0e0e325b79378b7b8236a91201186d46227f0692a3a4256e41e7883f"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

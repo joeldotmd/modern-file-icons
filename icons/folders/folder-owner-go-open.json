@@ -1,0 +1,44 @@
+{
+  "id": "folder-owner-go-open",
+  "name": "Go · official owner file · direct file · blue.svg · paired closed/open",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "owner-artwork",
+      "icon": "go",
+      "version": "575a6925e2d55ad160ed77f402bfaa4ec7458749",
+      "license": "licenses/cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": false },
+  "modifications": "Selector calibration (artwork override): motif size 12.3, closed 12.9/14.3, open 13/15.6, stroke 2.4. CSS styles converted to presentation attributes. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "trademark": "Google LLC (Go project) marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:go:folder:open",
+    "sha256": "b7d1bd885538d2a1d0aba81ae3f02a30ddd6312e358a5ef65b82cbfc2882c00a"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "folder:folder-go",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-4.0",
+    "licenseText": "licenses/cc-by-4-0.md",
+    "credit": "Go gopher by Renee French (https://go.dev/blog/gopher)",
+    "changes": "Scaled and placed in a Lucide folder outline by Modern File Icons. Selector calibration (artwork override): motif size 12.3, closed 12.9/14.3, open 13/15.6, stroke 2.4. CSS styles converted to presentation attributes. Nested SVG viewport kept as authored, with its position and size made explicit. Root width and height removed; the viewBox sizes the artwork. Editor and selector bookkeeping attributes removed.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://raw.githubusercontent.com/golang/website/575a6925e2d55ad160ed77f402bfaa4ec7458749/_content/images/gophers/blue.svg"
+  },
+  "variantGroup": "folder-owner-go"
+}

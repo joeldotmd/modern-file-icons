@@ -1,0 +1,24 @@
+{
+  "id": "lucide-check-check",
+  "name": "Lucide · CheckCheck",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "CheckCheck",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:CheckCheck",
+    "sha256": "6641ee3b83ce9ebdfd524c8b645115f741c617743235e3df2ffe387a5afdb8e7"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

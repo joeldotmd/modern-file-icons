@@ -1,0 +1,24 @@
+{
+  "id": "lucide-hard-drive-download",
+  "name": "Lucide · HardDriveDownload",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "HardDriveDownload",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:HardDriveDownload",
+    "sha256": "d3597931ed0e0dde3d66cdfb171321f3b60215e79904be49c55e09dcc8437d8e"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

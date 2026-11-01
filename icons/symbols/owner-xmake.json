@@ -1,0 +1,37 @@
+{
+  "id": "owner-xmake",
+  "name": "Xmake · official owner file · direct file · circle.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "xmake",
+      "version": "be4c1cc0e045b03286abc6ec983f284b320f8b72",
+      "license": "licenses/cc-by-nd-4-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "modifications": "CSS styles converted to presentation attributes.",
+  "trademark": "xmake-io project marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:xmake:standalone",
+    "sha256": "c3c3212a211eaba20dcb15d8a6556c4d79c9e8e8ea00316328694387329df74e"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:xmake",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-ND-4.0",
+    "licenseText": "licenses/cc-by-nd-4-0.md",
+    "credit": "xmake logo by xmake-io, https://github.com/xmake-io/xmake-logo",
+    "changes": "CSS styles converted to presentation attributes. Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": true,
+    "source": "https://raw.githubusercontent.com/xmake-io/xmake-logo/be4c1cc0e045b03286abc6ec983f284b320f8b72/src/circle.svg"
+  }
+}

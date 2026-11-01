@@ -1,0 +1,24 @@
+{
+  "id": "solar-table",
+  "name": "Solar · Table",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@solar-icons/react",
+      "icon": "table (Linear)",
+      "version": "2.3.2",
+      "license": "licenses/solar-cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "solar:table",
+    "sha256": "d98d0bf2977a15b7e5ae2406cd96881b5b5ffd152d16fa8df48fa3efb24fd90b"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH ATTRIBUTION; GENERIC LICENSED MOTIF"
+  }
+}

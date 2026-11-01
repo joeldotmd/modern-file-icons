@@ -1,0 +1,24 @@
+{
+  "id": "lucide-biceps-flexed",
+  "name": "Lucide · BicepsFlexed",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "BicepsFlexed",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:BicepsFlexed",
+    "sha256": "12b06b736f215859bf27c69a57b5fb98432f34c88aa1260e7d7494bb9460a8b9"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "owner-html",
+  "name": "Html · official owner file · direct file · HTML5_Badge.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "html",
+      "version": "unpinned (copy embedded in selector v6.12)",
+      "license": "licenses/cc-by-3-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "W3C marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:html:standalone",
+    "sha256": "a24e249060d9bb0cbc33ddeefab47247937495468c67501a1adb804874342f4b"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:html",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-3.0",
+    "licenseText": "licenses/cc-by-3-0.md",
+    "credit": "HTML5 Logo by W3C (https://www.w3.org/)",
+    "changes": "Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://www.w3.org/html/logo/downloads/HTML5_Badge.svg"
+  }
+}

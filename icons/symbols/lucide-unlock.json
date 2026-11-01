@@ -1,0 +1,24 @@
+{
+  "id": "lucide-unlock",
+  "name": "Lucide · Unlock",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Unlock",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Unlock",
+    "sha256": "b8e493e5621db95b3e05adef3e77a548a7a6e7e45c06c1d422dfc9e4458ea671"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "lucide-test-tubes",
+  "name": "Lucide · TestTubes",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "TestTubes",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:TestTubes",
+    "sha256": "89497771590ebbbcc559589d6c45720050d88bc85f13c88a293b82a8240f3045"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

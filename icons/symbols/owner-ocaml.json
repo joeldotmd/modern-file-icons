@@ -1,0 +1,37 @@
+{
+  "id": "owner-ocaml",
+  "name": "Ocaml · official owner file · direct file · logo.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "ocaml",
+      "version": "a6578768cdcbea1df8896f392495beed9c07a1e4",
+      "license": "licenses/unlicense.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "modifications": "CSS styles converted to presentation attributes.",
+  "trademark": "OCaml project marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:ocaml:standalone",
+    "sha256": "494ee37a44b3b9c862ed5c3214733222fe6f2d0d52b971401dc4e3235bd5e45a"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:ocaml",
+    "assessment": "CONDITIONAL",
+    "license": "Unlicense",
+    "licenseText": "licenses/unlicense.md",
+    "credit": "OCaml logo by the OCaml project (courtesy credit)",
+    "changes": "CSS styles converted to presentation attributes. Root width and height removed; the viewBox sizes the artwork. Editor and selector bookkeeping attributes removed.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://raw.githubusercontent.com/ocaml/ocaml.org/a6578768cdcbea1df8896f392495beed9c07a1e4/asset/logo.svg"
+  }
+}

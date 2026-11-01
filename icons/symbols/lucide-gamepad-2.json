@@ -1,0 +1,24 @@
+{
+  "id": "lucide-gamepad-2",
+  "name": "Lucide · Gamepad2",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Gamepad2",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Gamepad2",
+    "sha256": "356a13f1454826d0f84070de0ab6c05fd1175e032ebabe72c3a4a7cab1e44ebf"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

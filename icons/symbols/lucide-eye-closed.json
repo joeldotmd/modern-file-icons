@@ -1,0 +1,24 @@
+{
+  "id": "lucide-eye-closed",
+  "name": "Lucide · EyeClosed",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "EyeClosed",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:EyeClosed",
+    "sha256": "10ca7ed2e3f3cb0b642d3d737600e21659fa9923772fbc7dbf8e41a4ee61873a"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

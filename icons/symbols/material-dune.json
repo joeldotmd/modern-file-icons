@@ -1,0 +1,43 @@
+{
+  "id": "material-dune",
+  "name": "dune",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "material-icon-theme",
+      "icon": "dune.svg",
+      "version": "5.39.0",
+      "license": "licenses/material-icon-theme-mit.md"
+    },
+    {
+      "library": "material-design-icons (Google)",
+      "icon": "terrain",
+      "version": "unrecorded",
+      "license": "licenses/apache-2-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "Unattributed / multi-party (Material Icon Theme drawing; steward to confirm) marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "material:dune",
+    "sha256": "667c95c0c3a9780166bf504f5882d0d159e4006579425d3793def569abe13bd9"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:dune",
+    "assessment": "CONDITIONAL",
+    "license": "MIT",
+    "licenseText": "licenses/material-icon-theme-mit.md",
+    "credit": "Drawing from Material Icon Theme by Material Extensions",
+    "changes": "Unmodified artwork in Modern File Icons' self-contained SVG format.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "notice": "Copyright (c) 2025 Material Extensions",
+    "source": "https://registry.npmjs.org/material-icon-theme/-/material-icon-theme-5.39.0.tgz"
+  }
+}

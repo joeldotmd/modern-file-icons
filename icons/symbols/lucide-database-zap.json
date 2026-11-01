@@ -1,0 +1,24 @@
+{
+  "id": "lucide-database-zap",
+  "name": "Lucide · DatabaseZap",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "DatabaseZap",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:DatabaseZap",
+    "sha256": "6683af9cca80559ee00ab5a8d7430d09c78a5bc8293a9ced63e8b5d71097b1a5"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "huge-messages-square",
+  "name": "Hugeicons · MessagesSquareIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "MessagesSquareIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:MessagesSquareIcon",
+    "sha256": "d07d6f46ae4d8071a1e2300144a81c4c490cc60608906b81b4871e70f16c1ccf"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "folder-owner-git-open",
+  "name": "Git · official owner file · direct file · Git-Icon-1788C.svg · paired closed/open",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "owner-artwork",
+      "icon": "git",
+      "version": "8906575939de17ab6df6aeef2e1200806cb17431",
+      "license": "licenses/cc-by-3-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": false },
+  "modifications": "Selector calibration (artwork override): motif size 14.6, closed 12.7/12.7, open 12.2/14.7, stroke 2. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "trademark": "Git is a trademark of Software Freedom Conservancy; used only to identify Git folders; no affiliation implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:git:folder:open",
+    "sha256": "33c36a9271f0cb08b199504dcd7ea2fbfa43eff7341adf0d3c2cddcb864a4d1e"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "folder:folder-git",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-3.0",
+    "licenseText": "licenses/cc-by-3-0.md",
+    "credit": "Git Logo by Jason Long (https://git-scm.com/community/logos)",
+    "changes": "Scaled and placed in a Lucide folder outline by Modern File Icons. Selector calibration (artwork override): motif size 14.6, closed 12.7/12.7, open 12.2/14.7, stroke 2. Nested SVG viewport kept as authored, with its position and size made explicit. Root width and height removed; the viewBox sizes the artwork. Editor and selector bookkeeping attributes removed.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://raw.githubusercontent.com/git/git-scm.com/8906575939de17ab6df6aeef2e1200806cb17431/static/images/logos/downloads/Git-Icon-1788C.svg"
+  },
+  "variantGroup": "folder-owner-git"
+}

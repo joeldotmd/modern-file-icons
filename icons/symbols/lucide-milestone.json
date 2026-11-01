@@ -1,0 +1,24 @@
+{
+  "id": "lucide-milestone",
+  "name": "Lucide · Milestone",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Milestone",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Milestone",
+    "sha256": "39495c4cd31d0abb74a3891d1c2f0fd7ea6f5220f85ab32e95bcca669aba7802"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

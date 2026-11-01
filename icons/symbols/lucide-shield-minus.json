@@ -1,0 +1,24 @@
+{
+  "id": "lucide-shield-minus",
+  "name": "Lucide · ShieldMinus",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "ShieldMinus",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:ShieldMinus",
+    "sha256": "a8236dfc1ca82a7df4b24be88fa05e55300d91dc9da012378033052497980995"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

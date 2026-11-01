@@ -1,0 +1,24 @@
+{
+  "id": "huge-funnel",
+  "name": "Hugeicons · FunnelIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "FunnelIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:FunnelIcon",
+    "sha256": "9ff4c58413b70752df8a02fce16b0711e5c77d92dc269d8ca4bd1bfa5553a1f2"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

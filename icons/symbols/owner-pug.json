@@ -1,0 +1,38 @@
+{
+  "id": "owner-pug",
+  "name": "Pug · official owner file · direct file · pug-final-logo-_-colour-128.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "pug",
+      "version": "61429fc45b5a411b83bdb5c99a61084d3054d1e6",
+      "license": "licenses/pug-mit.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "modifications": "CSS styles converted to presentation attributes.",
+  "trademark": "Pug project marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:pug:standalone",
+    "sha256": "9b5f3966bf730210ae35caf5bf4149d60b44b7e5058d54c2f182debc1c18ed76"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:pug",
+    "assessment": "CONDITIONAL",
+    "license": "MIT",
+    "licenseText": "licenses/pug-mit.md",
+    "credit": "Pug logo by the Pug project",
+    "changes": "CSS styles converted to presentation attributes. Root width and height removed; the viewBox sizes the artwork. Editor and selector bookkeeping attributes removed.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "notice": "Copyright (c) 2016 Pug",
+    "source": "https://raw.githubusercontent.com/pugjs/pug-logo/61429fc45b5a411b83bdb5c99a61084d3054d1e6/SVG/pug-final-logo-_-colour-128.svg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "lucide-square-sigma",
+  "name": "Lucide · SquareSigma",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "SquareSigma",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:SquareSigma",
+    "sha256": "b09b1a5f5cba1a2a3794070ed753561c16bbf10f7ab3ca53bebc44611b2a2c39"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

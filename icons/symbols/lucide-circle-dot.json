@@ -1,0 +1,24 @@
+{
+  "id": "lucide-circle-dot",
+  "name": "Lucide · CircleDot",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "CircleDot",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:CircleDot",
+    "sha256": "e51708d83bac38d98efa441b8b59aa5b60bd78a24ec7fc41cd77b8dc0dbe39f3"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "owner-yarn",
+  "name": "Yarn · official owner file · alternate file · yarn-kitten.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "yarn",
+      "version": "76d30ca2aebed5b73ea8131d972218fb860bd32d",
+      "license": "licenses/cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "Yarn project marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:yarn:standalone",
+    "sha256": "f6727411de158eaca526b37f4c895b84d1ca7b700fc81ae00cbaa2324fea4f2e"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:yarn",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-4.0",
+    "licenseText": "licenses/cc-by-4-0.md",
+    "credit": "Yarn logo (yarn-kitten.svg) by the Yarn project, https://github.com/yarnpkg/assets",
+    "changes": "Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://raw.githubusercontent.com/yarnpkg/assets/76d30ca2aebed5b73ea8131d972218fb860bd32d/yarn-kitten.svg"
+  }
+}

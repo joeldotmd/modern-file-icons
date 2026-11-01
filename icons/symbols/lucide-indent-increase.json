@@ -1,0 +1,24 @@
+{
+  "id": "lucide-indent-increase",
+  "name": "Lucide · IndentIncrease",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "IndentIncrease",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:IndentIncrease",
+    "sha256": "8f57f028fecc4eb6a9b8358b150f666718811f3a243b594409039e94b68c9826"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

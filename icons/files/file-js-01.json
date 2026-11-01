@@ -1,0 +1,20 @@
+{
+  "id": "file-js-01",
+  "name": "JavaScript File 01",
+  "category": "file",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "Doc01Icon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": {
+    "color": true,
+    "strokeWidth": true
+  },
+  "variantGroup": "file-javascript",
+  "modifications": "Preserved the Doc01 open-bottom document contour and replaced its lettering with custom full-width JS lettering."
+}

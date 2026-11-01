@@ -1,0 +1,25 @@
+{
+  "id": "lucide-folder-open",
+  "name": "FolderOpen",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:FolderOpen",
+    "sha256": "25b89e7d272203d68e9696d8f6ef028494a512215f318ec30a2419df79c54bab"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "GENERIC SOURCE-PACK ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "lucide-folder"
+}

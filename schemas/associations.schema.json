@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/joeldotmd/modern-file-icons/schemas/associations.schema.json",
+  "title": "Theme Associations",
+  "description": "Recognition aliases: each filename, extension, language ID or folder name maps to one decision.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["fileNames", "fileExtensions", "languageIds", "folderNames"],
+  "properties": {
+    "fileNames": { "$ref": "#/definitions/aliases" },
+    "fileExtensions": { "$ref": "#/definitions/aliases" },
+    "languageIds": { "$ref": "#/definitions/aliases" },
+    "folderNames": { "$ref": "#/definitions/aliases" }
+  },
+  "definitions": {
+    "aliases": {
+      "type": "object",
+      "additionalProperties": { "type": "string", "pattern": "^(?:file|folder):[A-Za-z0-9._-]+$" }
+    }
+  }
+}

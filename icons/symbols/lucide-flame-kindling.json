@@ -1,0 +1,24 @@
+{
+  "id": "lucide-flame-kindling",
+  "name": "Lucide · FlameKindling",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FlameKindling",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:FlameKindling",
+    "sha256": "c3c4fb3c111391af5e544c2a9e652b48b2a8184ca8a8c45b97c29679ab1c669d"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

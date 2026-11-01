@@ -1,0 +1,24 @@
+{
+  "id": "lucide-pickaxe",
+  "name": "Lucide · Pickaxe",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Pickaxe",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Pickaxe",
+    "sha256": "63f8c828c42ea614d95ea42c8f05e8032b643aa639f33af64884ce6657e1ad82"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

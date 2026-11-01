@@ -1,0 +1,24 @@
+{
+  "id": "huge-computer-cloud",
+  "name": "Hugeicons · ComputerCloudIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "ComputerCloudIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:ComputerCloudIcon",
+    "sha256": "563ac4648493ea79e4687c9e1ffd5db77fed9320fe07367e69bd354be7ab2596"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

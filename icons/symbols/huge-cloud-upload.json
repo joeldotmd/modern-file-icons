@@ -1,0 +1,24 @@
+{
+  "id": "huge-cloud-upload",
+  "name": "Hugeicons · CloudUploadIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "CloudUploadIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:CloudUploadIcon",
+    "sha256": "d04cfc4ae185dd9d56c119d7cd139b0e1d6a39fd7c24bfb0287056ea89581d2e"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

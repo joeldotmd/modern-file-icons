@@ -1,0 +1,25 @@
+{
+  "id": "solar-widget",
+  "name": "widget",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@solar-icons/react",
+      "icon": "widget (Linear)",
+      "version": "2.3.2",
+      "license": "licenses/solar-cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "CSS styles converted to presentation attributes. CSS var() in presentation attributes resolved to its fallback, as Chromium renders it in the selector.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "solar:widget",
+    "sha256": "12632facb2011fd7a8cd7ede54829f7c8a4a128111eceed3e8bea6884211f321"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "GENERIC SOURCE-PACK ICON; USE WITH ATTRIBUTION; GENERIC LICENSED MOTIF"
+  }
+}

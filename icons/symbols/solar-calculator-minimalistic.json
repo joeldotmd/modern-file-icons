@@ -1,0 +1,24 @@
+{
+  "id": "solar-calculator-minimalistic",
+  "name": "Solar · CalculatorMinimalistic",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@solar-icons/react",
+      "icon": "calculator-minimalistic (Linear)",
+      "version": "2.3.2",
+      "license": "licenses/solar-cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "solar:calculator-minimalistic",
+    "sha256": "38b4fecbd39a98970cdea0dc0c18fc5c791b84e1fac495d9b01327722eade0b9"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH ATTRIBUTION; GENERIC LICENSED MOTIF"
+  }
+}

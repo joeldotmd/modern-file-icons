@@ -1,0 +1,24 @@
+{
+  "id": "huge-text-indent",
+  "name": "Hugeicons · TextIndentIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "TextIndentIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:TextIndentIcon",
+    "sha256": "36dd8c4b7cc9f17a74789ea46d3f457414977a5578c1db65c5ed1d53485c1938"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

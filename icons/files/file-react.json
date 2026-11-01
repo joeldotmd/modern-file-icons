@@ -1,0 +1,25 @@
+{
+  "id": "file-react",
+  "name": "React File",
+  "category": "file",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "FileCogIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    },
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "ReactIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": {
+    "color": true,
+    "strokeWidth": true
+  },
+  "modifications": "Replaced the FileCog symbol with a scaled ReactIcon, simplifying its center and adjusting optical stroke weight."
+}

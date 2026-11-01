@@ -1,0 +1,24 @@
+{
+  "id": "lucide-tag",
+  "name": "Lucide · Tag",
+  "category": "symbol",
+  "style": "mixed",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Tag",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Tag",
+    "sha256": "a182ced9227a1fcc47df6a98e7710f2c6857a171922a6893a94c7a08fa0d6fa0"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

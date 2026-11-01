@@ -1,0 +1,36 @@
+{
+  "id": "simple-icons-verdaccio",
+  "name": "Simple Icons · verdaccio (CC0-1.0)",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "simple-icons",
+      "icon": "verdaccio",
+      "version": "16.35.0",
+      "license": "licenses/cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": false },
+  "trademark": "Verdaccio project marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "brandvar:simple-icons:verdaccio",
+    "sha256": "6cbfe7631b1f93750985e1fcc7958fe7ba00eaa351e48d54d81e69dfeb7047d0"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:verdaccio",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-4.0",
+    "licenseText": "licenses/cc-by-4-0.md",
+    "credit": "Verdaccio logo © Verdaccio project (https://verdaccio.org/docs/logo)",
+    "changes": "Monochrome redraw by Simple Icons; recoloured #CD4000 by Modern File Icons. Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://verdaccio.org/docs/logo"
+  }
+}

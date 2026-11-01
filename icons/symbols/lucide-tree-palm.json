@@ -1,0 +1,24 @@
+{
+  "id": "lucide-tree-palm",
+  "name": "Lucide · TreePalm",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "TreePalm",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:TreePalm",
+    "sha256": "0b17dbaf7d130d5842207859a6d3b58935231966bb096a771bcaa034a100660b"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

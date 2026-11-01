@@ -1,0 +1,24 @@
+{
+  "id": "huge-file-spreadsheet",
+  "name": "FileSpreadsheetIcon",
+  "category": "file",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "FileSpreadsheetIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:FileSpreadsheetIcon",
+    "sha256": "178167a1502bd9c27862c67f8c6817b55051eca0e508555ac063d33e6447de10"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "GENERIC SOURCE-PACK ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

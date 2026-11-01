@@ -1,0 +1,24 @@
+{
+  "id": "lucide-list-music",
+  "name": "Lucide · ListMusic",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "ListMusic",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:ListMusic",
+    "sha256": "3874a6bd24b9996bb98363579e0bb2ca33a98249681ca458b4ccd79eb9d67c5f"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

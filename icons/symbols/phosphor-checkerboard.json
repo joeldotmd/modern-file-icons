@@ -1,0 +1,24 @@
+{
+  "id": "phosphor-checkerboard",
+  "name": "Phosphor · Checkerboard · regular",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "@phosphor-icons/react",
+      "icon": "Checkerboard (regular)",
+      "version": "2.1.10",
+      "license": "licenses/phosphor-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "phosphor-semantic:Checkerboard:regular",
+    "sha256": "170945baf0944b95645eabe2670bcc5cf7036a16f5f8fcab20c53ef98106a750"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

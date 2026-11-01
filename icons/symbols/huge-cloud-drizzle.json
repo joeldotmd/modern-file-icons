@@ -1,0 +1,24 @@
+{
+  "id": "huge-cloud-drizzle",
+  "name": "Hugeicons · CloudDrizzleIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "CloudDrizzleIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:CloudDrizzleIcon",
+    "sha256": "8bb8f98ef519dfa8e41c6b81710e2dfdc6c9c0970fc8835fcb724502ca477496"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

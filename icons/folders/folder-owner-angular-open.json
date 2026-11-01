@@ -1,0 +1,44 @@
+{
+  "id": "folder-owner-angular-open",
+  "name": "Angular · official owner file · angular.dev site header · inline gradient logo SVG · paired closed/open",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "owner-artwork",
+      "icon": "angular",
+      "version": "unpinned (copy embedded in selector v6.12)",
+      "license": "licenses/cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": false },
+  "modifications": "Selector calibration (artwork override): motif size 11.3, closed 12.6/12.4, open 12.2/14.2, stroke 2. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "trademark": "Google LLC marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:angular:folder:open",
+    "sha256": "417a5c72c23f45ad55b7995b22871a150f6d4cbb3a665a455400452e6769590e"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "folder:folder-angular",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-4.0",
+    "licenseText": "licenses/cc-by-4-0.md",
+    "credit": "Angular logo © Google LLC, from the Angular press kit (https://angular.dev/press-kit)",
+    "changes": "Scaled and placed in a Lucide folder outline by Modern File Icons. Selector calibration (artwork override): motif size 11.3, closed 12.6/12.4, open 12.2/14.2, stroke 2. Nested SVG viewport kept as authored, with its position and size made explicit. Root width and height removed; the viewBox sizes the artwork. Editor and selector bookkeeping attributes removed.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://angular.dev/ (site header inline SVG; build not recorded)"
+  },
+  "variantGroup": "folder-owner-angular"
+}

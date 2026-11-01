@@ -1,0 +1,32 @@
+{
+  "id": "folder-huge-monitor-smartphone",
+  "name": "Lucide closed folder + Hugeicons · MonitorSmartphoneIcon",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Folder",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "MonitorSmartphoneIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 12.5, closed 12.4/13.4, open 13.7/15, stroke 2.7. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:huge_MonitorSmartphoneIcon:closed",
+    "sha256": "76c9bdf9706c99762a83b656310129e32931d7d7d6640a45306dbb14d197e6e5"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-huge-monitor-smartphone"
+}

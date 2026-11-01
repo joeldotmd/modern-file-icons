@@ -1,0 +1,24 @@
+{
+  "id": "huge-user-check-01",
+  "name": "Hugeicons · UserCheck01Icon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "UserCheck01Icon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:UserCheck01Icon",
+    "sha256": "763baa86355ed74d6ed9459c75bf48b6715dbf2ded4ed6158c01a965cda96966"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

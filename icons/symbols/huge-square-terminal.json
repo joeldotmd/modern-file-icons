@@ -1,0 +1,24 @@
+{
+  "id": "huge-square-terminal",
+  "name": "Hugeicons · SquareTerminalIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "SquareTerminalIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:SquareTerminalIcon",
+    "sha256": "1d5154592043b5e883c8270a8c538118c776a5602a885d95ca4f14a2fc297b23"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

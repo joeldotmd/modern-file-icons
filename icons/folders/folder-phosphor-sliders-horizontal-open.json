@@ -1,0 +1,32 @@
+{
+  "id": "folder-phosphor-sliders-horizontal-open",
+  "name": "Lucide expanded folder + Phosphor · SlidersHorizontal · regular",
+  "category": "folder",
+  "style": "mixed",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderOpen",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "@phosphor-icons/react",
+      "icon": "SlidersHorizontal (regular)",
+      "version": "2.1.10",
+      "license": "licenses/phosphor-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "modifications": "Selector calibration (artwork override): motif size 14.3, closed 12.7/12.1, open 10.9/11.7, stroke 2.3. Nested SVG viewport kept as authored, with its position and size made explicit.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "matched-folder:phosphor-semantic_SlidersHorizontal_regular:open",
+    "sha256": "60ba05492e4e576572069fcda6c91899bddb999c860d70d7415bad0e1256ff4e"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  },
+  "variantGroup": "folder-phosphor-sliders-horizontal"
+}

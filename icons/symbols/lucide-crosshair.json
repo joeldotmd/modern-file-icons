@@ -1,0 +1,24 @@
+{
+  "id": "lucide-crosshair",
+  "name": "Lucide · Crosshair",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "Crosshair",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:Crosshair",
+    "sha256": "d1958eeb886494c8a93fd6b05e9c4941b53f1d82028886014a401c1c5987a803"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

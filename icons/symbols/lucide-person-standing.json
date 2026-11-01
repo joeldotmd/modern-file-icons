@@ -1,0 +1,24 @@
+{
+  "id": "lucide-person-standing",
+  "name": "Lucide · PersonStanding",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "PersonStanding",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:PersonStanding",
+    "sha256": "21247351e13edfb31949b5ba3943b8a6e63970ba55cd9741399812b911d08830"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

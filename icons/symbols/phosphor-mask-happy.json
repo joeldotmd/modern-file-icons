@@ -1,0 +1,24 @@
+{
+  "id": "phosphor-mask-happy",
+  "name": "Phosphor · MaskHappy · regular",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "@phosphor-icons/react",
+      "icon": "MaskHappy (regular)",
+      "version": "2.1.10",
+      "license": "licenses/phosphor-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "phosphor-semantic:MaskHappy:regular",
+    "sha256": "116c85725ebe67614b2e00b624e9afc7aa7016c552eb9e8d4f627654766c81b3"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

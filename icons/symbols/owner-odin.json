@@ -1,0 +1,37 @@
+{
+  "id": "owner-odin",
+  "name": "Odin · official owner file · alternate file · emblem.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "odin",
+      "version": "5f887a73f3cc5a4b61971ec15854ae456b886426",
+      "license": "licenses/cc-by-sa-4-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "modifications": "CSS styles converted to presentation attributes.",
+  "trademark": "Odin project marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:odin:standalone",
+    "sha256": "1fb24fe0e5c07ca0867caf2b8c8f9547a633f912984a0cb22104b3bed139e4c4"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:odin",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-SA-4.0",
+    "licenseText": "licenses/cc-by-sa-4-0.md",
+    "credit": "Odin logo by the Odin project (odin-lang)",
+    "changes": "CSS styles converted to presentation attributes. Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": true,
+    "noDerivatives": false,
+    "source": "https://raw.githubusercontent.com/odin-lang/artwork/5f887a73f3cc5a4b61971ec15854ae456b886426/logo/emblem.svg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "huge-file-lock",
+  "name": "FileLockIcon",
+  "category": "file",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "FileLockIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:FileLockIcon",
+    "sha256": "c1a9b728d5d9d0732e70b3c7450b2545b6618ebd7573126c11f2ec6cc7bb17db"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "GENERIC SOURCE-PACK ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

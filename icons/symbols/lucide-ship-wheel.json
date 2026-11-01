@@ -1,0 +1,24 @@
+{
+  "id": "lucide-ship-wheel",
+  "name": "Lucide · ShipWheel",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "ShipWheel",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:ShipWheel",
+    "sha256": "ecbc14e1a27148fc6a7416fffbbf6d93d5f6af51d21a7f5e0b86df56343f6b68"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

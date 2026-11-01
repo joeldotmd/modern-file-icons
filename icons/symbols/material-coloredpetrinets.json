@@ -1,0 +1,24 @@
+{
+  "id": "material-coloredpetrinets",
+  "name": "coloredpetrinets",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "material-icon-theme",
+      "icon": "coloredpetrinets.svg",
+      "version": "5.39.0",
+      "license": "licenses/material-icon-theme-mit.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "material:coloredpetrinets",
+    "sha256": "fbecd737a66275f479a90b630352a634969fce27146bb765aebe09039bc5fb46"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "GENERIC MATERIAL; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

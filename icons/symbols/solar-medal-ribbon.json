@@ -1,0 +1,24 @@
+{
+  "id": "solar-medal-ribbon",
+  "name": "Solar · MedalRibbon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@solar-icons/react",
+      "icon": "medal-ribbon (Linear)",
+      "version": "2.3.2",
+      "license": "licenses/solar-cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "solar:medal-ribbon",
+    "sha256": "9044b7b1d5d3bdea1fb9e79db11d391e4a956ff361fbf3c644b176e2242f6b1a"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH ATTRIBUTION; GENERIC LICENSED MOTIF"
+  }
+}

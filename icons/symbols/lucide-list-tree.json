@@ -1,0 +1,24 @@
+{
+  "id": "lucide-list-tree",
+  "name": "Lucide · ListTree",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "ListTree",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:ListTree",
+    "sha256": "a528a6cfcd67103419c3c3c46b5e55782216f4e1ad58ad0e501ffd4ec440cde6"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

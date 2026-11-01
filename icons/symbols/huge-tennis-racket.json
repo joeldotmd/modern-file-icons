@@ -1,0 +1,24 @@
+{
+  "id": "huge-tennis-racket",
+  "name": "Hugeicons · TennisRacketIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "TennisRacketIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:TennisRacketIcon",
+    "sha256": "048853c7f2d60805db8503cafbac988bdc63a1f55639290f837f9d00b2cac71c"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

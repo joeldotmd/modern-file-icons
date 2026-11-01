@@ -1,0 +1,114 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/joeldotmd/modern-file-icons/schemas/release-manifest.schema.json",
+  "title": "Release Manifest",
+  "description": "A built theme's manifest.json: VS Code file icon theme mappings plus Modern File Icons rendering metadata.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "iconDefinitions",
+    "file",
+    "folder",
+    "folderExpanded",
+    "rootFolder",
+    "rootFolderExpanded",
+    "fileNames",
+    "fileExtensions",
+    "languageIds",
+    "folderNames",
+    "folderNamesExpanded",
+    "light",
+    "modernFileIcons"
+  ],
+  "properties": {
+    "iconDefinitions": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["iconPath"],
+        "properties": {
+          "iconPath": {
+            "description": "Relative to manifest.json; always a flat SVG file under icons/.",
+            "type": "string",
+            "pattern": "^\\./icons/[a-z0-9][a-z0-9._-]*\\.svg$"
+          }
+        }
+      }
+    },
+    "file": { "$ref": "#/definitions/iconId" },
+    "folder": { "$ref": "#/definitions/iconId" },
+    "folderExpanded": { "$ref": "#/definitions/iconId" },
+    "rootFolder": { "$ref": "#/definitions/iconId" },
+    "rootFolderExpanded": { "$ref": "#/definitions/iconId" },
+    "fileNames": { "$ref": "#/definitions/associations" },
+    "fileExtensions": { "$ref": "#/definitions/associations" },
+    "languageIds": { "$ref": "#/definitions/associations" },
+    "folderNames": { "$ref": "#/definitions/associations" },
+    "folderNamesExpanded": { "$ref": "#/definitions/associations" },
+    "light": {
+      "description": "Overrides for a light host appearance; only decisions whose colour differs.",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "file": { "$ref": "#/definitions/iconId" },
+        "folder": { "$ref": "#/definitions/iconId" },
+        "folderExpanded": { "$ref": "#/definitions/iconId" },
+        "rootFolder": { "$ref": "#/definitions/iconId" },
+        "rootFolderExpanded": { "$ref": "#/definitions/iconId" },
+        "fileNames": { "$ref": "#/definitions/associations" },
+        "fileExtensions": { "$ref": "#/definitions/associations" },
+        "languageIds": { "$ref": "#/definitions/associations" },
+        "folderNames": { "$ref": "#/definitions/associations" },
+        "folderNamesExpanded": { "$ref": "#/definitions/associations" }
+      }
+    },
+    "modernFileIcons": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "theme",
+        "name",
+        "version",
+        "profile",
+        "bleed",
+        "bleedUnits",
+        "fixedSizes",
+        "source",
+        "decisions",
+        "fallbacks"
+      ],
+      "properties": {
+        "theme": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+        "name": { "type": "string", "minLength": 1 },
+        "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+        "profile": { "enum": ["preview", "release"] },
+        "bleed": {
+          "description": "Fraction of the icon size each image extends past its layout box per side.",
+          "type": "number",
+          "minimum": 0,
+          "exclusiveMaximum": 0.5
+        },
+        "bleedUnits": { "type": "number", "minimum": 0 },
+        "fixedSizes": {
+          "description": "CSS pixel sizes for icons drawn at a fixed size, keyed by icon definition.",
+          "type": "object",
+          "additionalProperties": { "type": "integer", "minimum": 1 }
+        },
+        "source": {
+          "description": "The theme definition's source record, as in theme.schema.json.",
+          "type": "object"
+        },
+        "decisions": { "type": "integer", "minimum": 0 },
+        "fallbacks": { "type": "integer", "minimum": 0 }
+      }
+    }
+  },
+  "definitions": {
+    "iconId": { "type": "string", "minLength": 1 },
+    "associations": {
+      "type": "object",
+      "additionalProperties": { "$ref": "#/definitions/iconId" }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "folder-link",
+  "name": "Folder Link",
+  "category": "folder",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "FolderHeart",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    },
+    {
+      "library": "lucide-react",
+      "icon": "Link",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": {
+    "color": true,
+    "strokeWidth": true
+  },
+  "modifications": "Integrated a scaled Link into the interrupted FolderHeart contour; softened the secondary strokes for optical balance."
+}

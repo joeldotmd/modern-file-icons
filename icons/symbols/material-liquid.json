@@ -1,0 +1,37 @@
+{
+  "id": "material-liquid",
+  "name": "liquid",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "material-icon-theme",
+      "icon": "liquid.svg",
+      "version": "5.39.0",
+      "license": "licenses/material-icon-theme-mit.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "Shopify marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "material:liquid",
+    "sha256": "e038669bcc6a67e5fb5b21b03437329783264e64dd48ecc4b36f1e989ac1065e"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:liquid",
+    "assessment": "CONDITIONAL",
+    "license": "MIT",
+    "licenseText": "licenses/material-icon-theme-mit.md",
+    "credit": "Drawing from Material Icon Theme by Material Extensions",
+    "changes": "Unmodified artwork in Modern File Icons' self-contained SVG format.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "notice": "Copyright (c) 2025 Material Extensions",
+    "source": "https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE"
+  }
+}

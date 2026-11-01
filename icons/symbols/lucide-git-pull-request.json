@@ -1,0 +1,24 @@
+{
+  "id": "lucide-git-pull-request",
+  "name": "Lucide · GitPullRequest",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "GitPullRequest",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:GitPullRequest",
+    "sha256": "4be1377200ac1ff61ff519df5e4a66860a702c68ff7c1317dea0d3cad56d7bfe"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

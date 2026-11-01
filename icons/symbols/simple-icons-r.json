@@ -1,0 +1,36 @@
+{
+  "id": "simple-icons-r",
+  "name": "Simple Icons · r (CC0-1.0)",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "simple-icons",
+      "icon": "r",
+      "version": "16.35.0",
+      "license": "licenses/cc-by-sa-4-0.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": false },
+  "trademark": "R Foundation marks belong to their owner; used only to identify the matching file type; no affiliation or endorsement implied.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "brandvar:simple-icons:r",
+    "sha256": "d6987a754ce0dee1e3f6eb5a270625304d058151250419bc0837c0cff1eb9d25"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:r",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-SA-4.0",
+    "licenseText": "licenses/cc-by-sa-4-0.md",
+    "credit": "R logo © 2016 The R Foundation",
+    "changes": "Monochrome redraw by Simple Icons; recoloured #1976d2 by Modern File Icons. Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": true,
+    "noDerivatives": false,
+    "source": "https://www.r-project.org/logo/"
+  }
+}

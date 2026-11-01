@@ -1,0 +1,36 @@
+{
+  "id": "owner-godot",
+  "name": "Godot · official owner file · direct file · icon.svg",
+  "category": "symbol",
+  "style": "filled",
+  "sources": [
+    {
+      "library": "owner-artwork",
+      "icon": "godot",
+      "version": "232e6b14abf6e590b41d60f11704e42de22bff72",
+      "license": "licenses/cc-by-4-0.md"
+    }
+  ],
+  "customization": { "color": false, "strokeWidth": false },
+  "trademark": "Modern File Icons is not affiliated with or endorsed by the Godot Foundation. GODOT and the Godot logo are trademarks of the Godot Foundation.",
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "owner-pending:godot:standalone",
+    "sha256": "434663565ec50c3000e8b9dbf87191d238501432688280bdd51b9f79b9ee0518"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "Approved for distribution in source and theme packages on 2026-10-31."
+  },
+  "rights": {
+    "decision": "file:godot-assets",
+    "assessment": "CONDITIONAL",
+    "license": "CC-BY-4.0",
+    "licenseText": "licenses/cc-by-4-0.md",
+    "credit": "Godot Engine Logo Copyright (c) 2017 Andrea Calabró",
+    "changes": "Root width and height removed; the viewBox sizes the artwork.",
+    "shareAlike": false,
+    "noDerivatives": false,
+    "source": "https://raw.githubusercontent.com/godotengine/godot/232e6b14abf6e590b41d60f11704e42de22bff72/misc/logo/icon.svg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "lucide-git-fork",
+  "name": "Lucide · GitFork",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "GitFork",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:GitFork",
+    "sha256": "55312984420cc05ea6552405b8040aad270f9c1c689b3b0f4def8355e00a7b83"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

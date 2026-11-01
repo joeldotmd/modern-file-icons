@@ -1,0 +1,24 @@
+{
+  "id": "huge-videotape",
+  "name": "Hugeicons · VideotapeIcon",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "@hugeicons/core-free-icons",
+      "icon": "VideotapeIcon",
+      "version": "4.3.5",
+      "license": "licenses/hugeicons-mit.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "huge:VideotapeIcon",
+    "sha256": "a7a36e95cd871e6b3a530c35d88ae98c3cfc402cc4604cf8141e479e0c1cb33d"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}

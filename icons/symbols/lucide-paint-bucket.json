@@ -1,0 +1,24 @@
+{
+  "id": "lucide-paint-bucket",
+  "name": "Lucide · PaintBucket",
+  "category": "symbol",
+  "style": "outline",
+  "sources": [
+    {
+      "library": "lucide-react",
+      "icon": "PaintBucket",
+      "version": "1.53.0",
+      "license": "licenses/lucide-isc.md"
+    }
+  ],
+  "customization": { "color": true, "strokeWidth": true },
+  "origin": {
+    "seed": "seed-v6.12-39a8d38feb61",
+    "candidate": "lucide:PaintBucket",
+    "sha256": "7893772eb8935ee8021c1afe00b809f6967e6378c6b2b32f7d65e350b403ee47"
+  },
+  "release": {
+    "status": "eligible",
+    "basis": "INDEPENDENT SEMANTIC ICON; USE WITH NOTICES; GENERIC LICENSED MOTIF"
+  }
+}
